@@ -41,4 +41,4 @@ Depending on the geographic location of a Customer or their Authorized Users, an
 
 ## Updates
 
-As our business grows and evolves, the Subprocessors we engage may also change. We will endeavor to provide the owner of Customer’s account with notice of any new Subprocessors to the extent required under the Agreement, along with posting such updates here. Please check back frequently for updates.
+As our business grows and evolves, the Subprocessors we engage may also change. We will endeavor to provide the owner of Customer's account with notice of any new Subprocessors to the extent required under the Agreement, along with posting such updates here. Please check back frequently for updates.

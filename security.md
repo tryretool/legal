@@ -31,15 +31,15 @@ We take the security of your data very seriously at Retool. If you have addition
 
 ### Cloud-Based Services
 
-The cloud-based Retool services are operated on a multitenant architecture at both the platform and infrastructure layers that is designed to segregate and restrict access to any applications, workflows or processes you and your users build using the Retool services (each, a “Custom App”). This infrastructure is provided and hosted by Amazon Web Services, Inc. (“AWS”). Information about security provided by AWS is available from the [AWS Security website](https://aws.amazon.com/security/). Information about security and privacy-related audits and certifications received by AWS, including information on SOC reports, is available from the [AWS Compliance website](https://aws.amazon.com/compliance/).
+The cloud-based Retool services are operated on a multitenant architecture at both the platform and infrastructure layers that is designed to segregate and restrict access to any applications, workflows or processes you and your users build using the Retool services (each, a "Custom App"). This infrastructure is provided and hosted by Amazon Web Services, Inc. ("AWS"). Information about security provided by AWS is available from the [AWS Security website](https://aws.amazon.com/security/). Information about security and privacy-related audits and certifications received by AWS, including information on SOC reports, is available from the [AWS Compliance website](https://aws.amazon.com/compliance/).
 
 ### Self-Hosted Services
 
-For self-hosted Retool services, Custom Apps are hosted using your own infrastructure - such as on-premises — so that you and your users can build Custom Apps in your virtual private cloud (VPC) or behind your virtual private network (VPN). In provisioning a self-hosted account of the Retool services, our self-hosted image is built with the latest upstream version of Debian (Retool’s base operating system image) with the latest security patches, and updates on a daily-basis.
+For self-hosted Retool services, Custom Apps are hosted using your own infrastructure - such as on-premises — so that you and your users can build Custom Apps in your virtual private cloud (VPC) or behind your virtual private network (VPN). In provisioning a self-hosted account of the Retool services, our self-hosted image is built with the latest upstream version of Debian (Retool's base operating system image) with the latest security patches, and updates on a daily-basis.
 
 ### Database, Query and Workflow Configurations
 
-Whether using Retool’s cloud-based or self-hosted services, you and your users may submit data and content to your Custom Apps (“Customer Data”), for example by querying a database or automating a workflow. You have the option to build and use Custom Apps without workflows and/or without connecting them to any database, or alternatively, you have the ability to connect Custom Apps to your own databases, databases hosted by third parties, or databases hosted by Retool.
+Whether using Retool's cloud-based or self-hosted services, you and your users may submit data and content to your Custom Apps ("Customer Data"), for example by querying a database or automating a workflow. You have the option to build and use Custom Apps without workflows and/or without connecting them to any database, or alternatively, you have the ability to connect Custom Apps to your own databases, databases hosted by third parties, or databases hosted by Retool.
 
 ### Storage of Customer Data
 
@@ -51,7 +51,7 @@ Note that if you enable [query or workflow caching](https://docs.retool.com/docs
 
 ### Confidentiality
 
-Retool places strict controls over its employees’ access to Custom Apps and any associated Customer Data. The operation of the Retool services requires that some employees have access to the systems which store or process this information and data. For example, in order to diagnose a problem you are having with the Retool services, we may need to access your account. These employees are prohibited from using these permissions to view Customer Data unless it is necessary to do so. We have technical controls and audit policies in place to ensure that any access to your account is logged.
+Retool places strict controls over its employees' access to Custom Apps and any associated Customer Data. The operation of the Retool services requires that some employees have access to the systems which store or process this information and data. For example, in order to diagnose a problem you are having with the Retool services, we may need to access your account. These employees are prohibited from using these permissions to view Customer Data unless it is necessary to do so. We have technical controls and audit policies in place to ensure that any access to your account is logged.
 
 All of our employees and contract personnel are bound to our policies regarding confidentiality and we treat these issues as matters of the highest importance within our company.
 
@@ -72,9 +72,9 @@ The Retool services use industry-accepted encryption products to protect Custome
 
 ### Reliability, Backup, and Business Continuity
 
-Retool is committed to making the Retool services a highly available service that you can rely on. The infrastructure Retool uses for delivering the services run on systems that are fault-tolerant, for failures of individual servers or even entire data centers. Retool’s operations team tests disaster recovery measures regularly and has a 24-hour on-call team to quickly resolve unexpected incidents. Retool performs regular backups, facilitates rollbacks of software and system changes when necessary and replication of data as needed.
+Retool is committed to making the Retool services a highly available service that you can rely on. The infrastructure Retool uses for delivering the services run on systems that are fault-tolerant, for failures of individual servers or even entire data centers. Retool's operations team tests disaster recovery measures regularly and has a 24-hour on-call team to quickly resolve unexpected incidents. Retool performs regular backups, facilitates rollbacks of software and system changes when necessary and replication of data as needed.
 
-Customer Data, when stored by Retool, is done so redundantly in multiple locations in our hosting provider’s data centers to ensure availability. Retool has well-tested backup and restoration procedures which allow recovery from a major disaster. Customer Data, Custom Apps and our source code are automatically backed up every night and stored for seven days. The operations team is alerted in the event of a failure in this system. Backups are stored for seven days in the event of a catastrophic failure and fully tested at least every 90 days to confirm that Retool’s processes and tools work as expected.
+Customer Data, when stored by Retool, is done so redundantly in multiple locations in our hosting provider's data centers to ensure availability. Retool has well-tested backup and restoration procedures which allow recovery from a major disaster. Customer Data, Custom Apps and our source code are automatically backed up every night and stored for seven days. The operations team is alerted in the event of a failure in this system. Backups are stored for seven days in the event of a catastrophic failure and fully tested at least every 90 days to confirm that Retool's processes and tools work as expected.
 
 ### Portability of Custom Apps
 

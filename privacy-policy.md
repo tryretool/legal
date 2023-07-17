@@ -2,13 +2,16 @@
 title: "Privacy Policy"
 ---
 
+>
+> Last updated: July 17, 2023
+
 **Your privacy is important to us.** This Privacy Policy explains our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services.
 
 In this Privacy Policy:
 
-- We’ll refer to our website as the “Site”.
-- We’ll refer to all the products and services we provide, individually and collectively, as the “Services”.
-- We’ll refer to you, the person or entity accessing our Site or using our Services, as “you” or “your” or (if you are a purchaser of our Services), our “customer”.
+- We'll refer to our website as the "Site".
+- We'll refer to all the products and services we provide, individually and collectively, as the "Services".
+- We'll refer to you, the person or entity accessing our Site or using our Services, as "you" or "your" or (if you are a purchaser of our Services), our "customer".
 
 ## Table of contents
 
@@ -34,9 +37,9 @@ In this Privacy Policy:
 
 ## Definitions
 
-**Data Controller**: For general data protection regulation purposes, the “Data Controller” means the organization who decides the purposes for which, and the way in which, any Personal Information is processed. Our customers are the Data Controllers.
+**Data Controller**: For general data protection regulation purposes, the "Data Controller" means the organization who decides the purposes for which, and the way in which, any Personal Information is processed. Our customers are the Data Controllers.
 
-**Data Processor**: A “Data Processor” is an organization which processes Personal Information for a Data Controller. We are the Data Processor for our customers. As a Data Processor, we are bound by the requirements of the General Data Protection Regulations (the “GDPR”).
+**Data Processor**: A "Data Processor" is an organization which processes Personal Information for a Data Controller. We are the Data Processor for our customers. As a Data Processor, we are bound by the requirements of the General Data Protection Regulations (the "GDPR").
 
 **Data Processing**: Data processing is any operation or set of operations (whether automated or not) performed upon Personal Information. Examples of data processing explicitly listed in the text of the GDPR are: collection, recording, organizing, structuring, storing, adapting, altering, retrieving, consulting, using, disclosing by transmission, disseminating or making available, aligning or combining, restricting, erasure or destruction.
 
@@ -59,12 +62,12 @@ In our service as a Data Processor, we collect Personal Information from Data Co
 We may collect the following types of personal information from you:
 
 - Your first and last name, username and email address.
-- Your company’s name.
-- Your (and/or your company’s) physical address.
+- Your company's name.
+- Your (and/or your company's) physical address.
 - Information you choose to provide us through our Services (including, for example, your birthdate and/or phone number).
 - We may collect information you post to, or collect from, users of the Services. We use this information to operate, maintain, and provide to you the features and functionality of the Services.
 - We may also collect and aggregate information about the use of our Site and our Services. That information includes browser and device data, such as IP address, device type, screen resolution, browser type, operating system name and version, language, as well as add-ons for your browser. The information may also include usage data, including the pages visited on and links clicked on our Site, the time spent on those pages, and the pages that led or referred you to our Site.
-- We may also permit third-party online advertising networks to collect information (through Cookies or similar tracking technology) about your and others’ use of our Services and any of your mobile or web applications, in order to allow those third-party networks to display ads that may be relevant to your interests on our Services as well as on other websites or apps.
+- We may also permit third-party online advertising networks to collect information (through Cookies or similar tracking technology) about your and others' use of our Services and any of your mobile or web applications, in order to allow those third-party networks to display ads that may be relevant to your interests on our Services as well as on other websites or apps.
 
 [Back to top](#table-of-contents)
 
@@ -93,7 +96,7 @@ We will request your consent before we use or disclose your Personal Information
 
 We may use the information we collect or receive to communicate directly with you. We may send email marketing communications about Retool. If you do not want to receive such email messages, you will be given the option to opt out. We will try to comply with your request(s) as soon as reasonably practical. Additionally, even after you opt out from receiving marketing messages from us, you will continue to receive administrative messages from us regarding our Services (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices).
 
-In addition, you may opt out of allowing third-party online advertising networks to collect information from our Site by adjusting the browser settings on your computer or mobile device. Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking tools.
+In addition, you may opt out of allowing third-party online advertising networks to collect information from our Site by adjusting the browser settings on your computer or mobile device. Please refer to your mobile device or browser's technical information for instructions on how to delete and disable cookies, and other tracking tools.
 
 [Back to top](#table-of-contents)
 
@@ -107,7 +110,7 @@ You are responsible for maintaining the secrecy of your unique password and acco
 
 ## Cookies
 
-We use cookies to remember information so that you don’t have to re-enter it during your visit or the next time you visit the Site, to understand and save your preferences for future visits, to compile aggregate data about site traffic and site interaction, to provide custom, personalized content, support, or information, including advertising. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you may not be able to access all portions or features of the Site or the Services. At present, there is no industry standard for recognizing Do Not Track browser signals, so we do not currently respond to them.
+We use cookies to remember information so that you don't have to re-enter it during your visit or the next time you visit the Site, to understand and save your preferences for future visits, to compile aggregate data about site traffic and site interaction, to provide custom, personalized content, support, or information, including advertising. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don't accept Cookies, you may not be able to access all portions or features of the Site or the Services. At present, there is no industry standard for recognizing Do Not Track browser signals, so we do not currently respond to them.
 
 [Back to top](#table-of-contents)
 
@@ -127,7 +130,7 @@ Except as set out below, we do not sell, trade, or otherwise transfer to outside
 - We limit the Personal Information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such Personal Information.
 - We may contract with third-party service providers to assist us in better understanding our Site visitors.
 - These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-- We may also release your Personal Information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety.
+- We may also release your Personal Information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others' rights, property, or safety.
 - In particular, we may release your Personal Information to third parties as required to (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our Terms of Service, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of Retool, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues.
 - If you enable a public sharing of your Retool applications, any information or content that you voluntarily disclose in your application becomes available to the public. If you remove information that you posted to the Services, copies may remain viewable in cached and archived pages of the Service, or if other users of the Services have copied or saved that information.
 - In the event that we enter into, or intend to enter into, a transaction that alters the structure of our business, such as a merger, reorganization, joint venture, assignment, sale, or change of ownership, we may share Personal Information for the purpose of facilitating and completing the transaction.
@@ -136,7 +139,7 @@ Except as set out below, we do not sell, trade, or otherwise transfer to outside
 
 ## How do we handle global transfers and processing of your Personal Information?
 
-Personal Information may be stored and processed in any country where we have operations, or where we engage service providers. This means that we may collect your Personal Information from, transfer it to, and store and process it in the United States and other countries outside of where you live. For example, some of our third-party providers may be located in different countries. Where this is the case, we will take steps to make sure the right security measures are taken so that your privacy rights continue to be protected as outlined in this Privacy Policy. By submitting your Personal Information, you’re agreeing to this transfer, storing or processing.
+Personal Information may be stored and processed in any country where we have operations, or where we engage service providers. This means that we may collect your Personal Information from, transfer it to, and store and process it in the United States and other countries outside of where you live. For example, some of our third-party providers may be located in different countries. Where this is the case, we will take steps to make sure the right security measures are taken so that your privacy rights continue to be protected as outlined in this Privacy Policy. By submitting your Personal Information, you're agreeing to this transfer, storing or processing.
 
 If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including Personal Information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. If we transfer your Personal Information from the E.U. and process it in the United States, we do so in accordance with applicable law. In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
