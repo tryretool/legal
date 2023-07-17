@@ -9,6 +9,26 @@ This Privacy Policy explains our practices regarding the collection, use and dis
 
 When we refer to "Retool" ("we", "our" or "us"), we mean the Retool entity that acts as the controller or processor of your information, Retool, Inc. Please refer to the section titled 'Identity of the Data Controller and Data Processor' for more information. 
 
++ [Introduction](#introduction)
++ [Identity of the Data Controller and Data Processor](#identity-of-the-data-controller-and-data-processor)
++ [Information Retool Collects and Receives](#information-retool-collects-and-receives)
++ [How We Process your Information and our Legal Bases (under GDPR) for Doing So](#how-we-process-your-information-and-our-legal-bases-under-gdpr-for-doing-so)
++ [Compliance With a Legal Obligation](#compliance-with-a-legal-obligation)
++ [Legitimate Interests](#legitimate-interests)
++ [How We Share And Disclose Information](#how-we-share-and-disclose-information)
++ [International Data Transfers](#international-data-transfers)
++ [Data Retention](#data-retention)
+  + [Customer Data](#customer-data)
+  + [Other Information](#other-information)
++ [Your Rights](#your-rights)
++ [Data Protection Authority](#data-protection-authority)
++ [Your California Privacy Rights](#your-california-privacy-rights)
++ [Security](#security)
++ [Age Limitations](#age-limitations)
++ [Data Protection Officer](#data-protection-officer)
++ [Contact Retool](#contact-retool)
++ [Changes To This Privacy Policy](#changes-to-this-privacy-policy)
+
 ## Introduction
 
 This Privacy Policy applies to: Retool's developer tools and platform that enable Customers and their Authorized Users to build, deploy and use Custom Apps (individually and collectively, the "Services"); Retool.com (the "Website"); and other interactions you may have with Retool. 
