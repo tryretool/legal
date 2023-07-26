@@ -1,8 +1,13 @@
 ---
 title: "Subprocessors"
+sidebar_position: 6
 ---
 
-> Last Updated: June 28, 2023
+:::info Last updated
+
+June 28, 2023
+
+:::
 
 To support delivery of our Services, Retool, Inc. (or one of its Affiliates listed below), may engage and use data processors with access to certain Customer Data (each, a "Subprocessor"). This page provides important information about the identity, location and role of each Subprocessor. Terms used on this page but not defined have the meaning set forth in the [Customer Terms of Service](https://retool.com/tos.pdf) (or if applicable, the superseding written agreement between Customer and Retool or a Retool affiliate(s)) (the "Agreement").
 
@@ -18,9 +23,9 @@ Retool may use the following Subprocessors to host Customer Data or provide othe
 | Entity Name               | Relevant Retool Services               | Purpose of Processing                                               | Location of Subprocessors |
 | ------------------------- | -------------------------------------- | ------------------------------------------------------------------- | ------------------------- |
 | Amazon Web Services, Inc. | Cloud Offerings                        | Third-party hosting provider                                        | United States             |
-| Amazon Web Services, Inc. | Workflows  <br>(Retool Cloud)          | Third-party hosting provider for queries and workflow caching       | United States             |
+| Amazon Web Services, Inc. | Workflows  <br />(Retool Cloud)          | Third-party hosting provider for queries and workflow caching       | United States             |
 | Temporal Technologies     | Workflows (Self-Hosted Offerings)      | Third-party hosting provider for workflow orchestration             | United States             |
-| DataStax, Inc.            | Workflows  <br>(Retool Cloud)          | Third-party hosting provider for Workflow orchestration (AstraDB)   | United States             |
+| DataStax, Inc.            | Workflows  <br />(Retool Cloud)          | Third-party hosting provider for Workflow orchestration (AstraDB)   | United States             |
 | OpenAI, Inc.              | Optional AI Features                   | Third party artificial intelligence large language model and engine | United States             |
 | Neon, Inc.                | Retool Database (Self-Serve Customers) | Third-party hosting provider                                        | United States             |
 | Supabase, Inc.            | Retool Database (Self-Serve Customers) | Third-party hosting provider                                        | United States             |

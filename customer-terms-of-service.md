@@ -1,71 +1,15 @@
 ---
-title: Customer Terms of Service 
+title: Customer Terms of Service
+sidebar_position: 1
 ---
 
->
-> Last updated: July 17, 2023
+:::info Last updated
+
+July 17, 2023
+
+:::
 
 These Customer Terms of Service (the "Customer Terms") describe your rights and responsibilities when using our developer tools and platform (the "Services"). Please read them carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://docs.retool.com/page/user-terms) (the "User Terms") govern your access and use of the Services. 
-
-+ [THE CONTRACT](#the-contract)
-  + [These "Customer Terms" Form a Part of a Binding "Contract"](#these-customer-terms-form-a-part-of-a-binding-contract)
-+ [Your Agreement On Behalf of "Customer"](#your-agreement-on-behalf-of-customer)
-+ [CUSTOMER CHOICES AND CONFIGURATIONS](#customer-choices-and-configurations)
-  + [Who is "Customer"?](#who-is-customer)
-  + [Who is an "Authorized User"?](#who-is-an-authorized-user)
-  + [How can "Custom Apps" be Built and Used?](#how-can-custom-apps-be-built-and-used)
-  + [What is "Customer Data"?](#what-is-customer-data)
-  + [Ordering Subscriptions](#ordering-subscriptions)
-  + [Purchasing Decisions](#purchasing-decisions)
-  + [Choosing to be a Beta Tester](#choosing-to-be-a-beta-tester)
-  + [Feedback is Welcome](#feedback-is-welcome)
-  + [Retool as a Platform](#retool-as-a-platform)
-  + [Privacy Policy](#privacy-policy)
-+ [RESPONSIBILITIES OF CUSTOMER](#responsibilities-of-customer)
-  + [Use of the Services](#use-of-the-services)
-  + [Responsibilities To, and For, Authorized Users](#responsibilities-to-and-for-authorized-users)
-  + [Our Removal Rights](#our-removal-rights)
-+ [PAYMENT OBLIGATIONS](#payment-obligations)
-  + [Payment Terms](#payment-terms)
-  + [Credits](#credits)
-+ [OUR RESPONSIBILITIES](#our-responsibilities)
-  + [Providing the Services](#providing-the-services)
-  + [Keeping the Services Available](#keeping-the-services-available)
-  + [Protecting Customer Data](#protecting-customer-data)
-  + [The Retool Extended Family](#the-retool-extended-family)
-+ [OWNERSHIP AND PROPRIETARY RIGHTS](#ownership-and-proprietary-rights)
-  + [What's Yours is Yours…](#whats-yours-is-yours)
-  + [And What's Ours is Ours](#and-whats-ours-is-ours)
-  + [Improvements to the Service](#improvements-to-the-service)
-+ [TERM AND TERMINATION](#term-and-termination)
-  + [Contract Term](#contract-term)
-  + [Auto-Renewal](#auto-renewal)
-  + [Termination for Cause](#termination-for-cause)
-  + [Termination Without Cause](#termination-without-cause)
-  + [Effect of Termination](#effect-of-termination)
-  + [Data Portability and Deletion](#data-portability-and-deletion)
-+ [REPRESENTATIONS; DISCLAIMER OF WARRANTIES](#representations-disclaimer-of-warranties)
-+ [LIMITATION OF LIABILITY](#limitation-of-liability)
-+ [OUR INDEMNIFICATION OF CUSTOMER](#our-indemnification-of-customer)
-+ [CUSTOMER'S INDEMNIFICATION OF US](#customers-indemnification-of-us)
-+ [LIMITATIONS ON INDEMNIFICATIONS](#limitations-on-indemnifications)
-+ [CONFIDENTIALITY](#confidentiality)
-  + [Confidential Information](#confidential-information)
-  + [Protection and Use of Confidential Information](#protection-and-use-of-confidential-information)
-  + [Compelled Access or Disclosure](#compelled-access-or-disclosure)
-+ [SURVIVAL](#survival)
-+ [GENERAL PROVISIONS](#general-provisions)
-  + [Publicity](#publicity)
-  + [Force Majeure](#force-majeure)
-  + [Relationship of the Parties; No Third Party Beneficiaries](#relationship-of-the-parties-no-third-party-beneficiaries)
-  + [Email Notices](#email-notices)
-  + [Modifications](#modifications)
-  + [Waiver](#waiver)
-  + [Severability](#severability)
-  + [Assignment](#assignment)
-  + [Which Retool Entity is Customer Contracting With?](#which-retool-entity-is-customer-contracting-with)
-+ [Entire Agreement](#entire-agreement)
-
 
 ## THE CONTRACT
 

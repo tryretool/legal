@@ -1,17 +1,15 @@
 ---
 title: "Customer-Specific Supplement"
+sidebar_position: 3
 ---
 
->
-> Last updated: July 17, 2023
+:::info Last updated
+
+July 17, 2023
+
+:::
 
 The terms of the Customer-Specific Supplement ("Customer-Specific Supplement") below supplement and amend Customer's Contract (as defined in our [Customer Terms of Service](https://docs.retool.com/page/customer-terms)) if Customer falls into the corresponding category of Customer. If there is any conflict between the Customer-Specific Supplement and the Contract, the applicable terms in the Customer-Specific Supplement will prevail. Nothing in this Customer-Specific Supplement makes us a government contractor for any federal, state, local, or foreign government. 
-
-+ [I. U.S. Government Customers](#i-us-government-customers)
-+ [II. State or Local Government Customers](#ii-state-or-local-government-customers)
-+ [III. Healthcare Customers](#iii-healthcare-customers)
-+ [IV. Education Professional Customers](#iv-education-professional-customers)
-+ [V. Patent Assertion Entities](#v-patent-assertion-entities)
 
 ## I. U.S. Government Customers
 

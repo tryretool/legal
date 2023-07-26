@@ -1,9 +1,13 @@
 ---
 title: "Data Request Policy"
+sidebar_position: 7
 ---
 
->
-> Last updated: July 17, 2023
+:::info Last updated
+
+July 17, 2023
+
+:::
 
 Not unlike other technology companies, Retool receives requests from users and government agencies to disclose or delete data other than in the ordinary operation and provision of the Services. This Data Request Policy addresses those issues and outlines Retool's policies and procedures for responding to such requests for Customer Data. Any capitalized terms used in this Data Request Policy that are not defined will have the meaning set forth in the [Customer Terms of Service](https://docs.retool.com/page/customer-terms). In the event of any inconsistency between the provisions of this Data Request Policy and the Customer Terms of Service, the provisions of the Customer Terms of Service will control.
 
