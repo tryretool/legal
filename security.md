@@ -1,31 +1,15 @@
 ---
 title: "Security practices"
+sidebar_position: 5
 ---
 
->
-> Last Updated: April 1, 2023
+:::info Last updated
+
+April 1, 2023
+
+:::
 
 We take the security of your data very seriously at Retool. If you have additional questions regarding security, we are happy to answer them. Please write to [security@retool.com](mailto:security@retool.com) and we will respond as quickly as we can. This Security Practices page describes the administrative, technical and physical controls applicable to Retool.
-
-+ [Hosting, Architecture, and configurations](#hosting-architecture-and-configurations)
-  + [Cloud-Based Services](#cloud-based-services)
-  + [Self-Hosted Services](#self-hosted-services)
-  + [Database, Query and Workflow Configurations](#database-query-and-workflow-configurations)
-  + [Storage of Customer Data](#storage-of-customer-data)
-+ [Confidentiality and security controls](#confidentiality-and-security-controls)
-  + [Confidentiality](#confidentiality)
-  + [Protection of Customer Data](#protection-of-customer-data)
-  + [Data Encryption](#data-encryption)
-  + [Reliability, Backup, and Business Continuity](#reliability-backup-and-business-continuity)
-  + [Portability of Custom Apps](#portability-of-custom-apps)
-  + [Return of Customer Data](#return-of-customer-data)
-  + [Deletion of Custom Apps and Customer Data](#deletion-of-custom-apps-and-customer-data)
-+ [Monitoring, validation, and practices](#monitoring-validation-and-practices)
-  + [Certifications](#certifications)
-  + [Audits](#audits)
-  + [Intrusion Detection](#intrusion-detection)
-  + [Security Logs](#security-logs)
-  + [Personnel Practices](#personnel-practices)
 
 ## Hosting, Architecture, and configurations
 

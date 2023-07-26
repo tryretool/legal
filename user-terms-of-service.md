@@ -1,35 +1,15 @@
 ---
 title: User Terms of Service
+sidebar_position: 2
 ---
 
->
-> Last updated: July 17, 2023
+:::info Last updated
+
+July 17, 2023
+
+:::
 
 These User Terms of Service (the "User Terms") govern your access and use of our developer tools and platform (the "Service"). Please read them carefully. Even though you are signing onto an organization's account, these User Terms apply to you as a user of the Services. 
-
-+ [THE TERMS](#the-terms)
-  + [These User Terms are Legally Binding](#these-user-terms-are-legally-binding)
-+ [CUSTOMER'S CHOICES AND INSTRUCTIONS](#customers-choices-and-instructions)
-  + [You are an Authorized User through a Service Controlled by a "Customer"](#you-are-an-authorized-user-through-a-service-controlled-by-a-customer)
-  + [What This Means for You—and for Us](#what-this-means-for-youand-for-us)
-  + [The Relationship Between You, Customer and Us](#the-relationship-between-you-customer-and-us)
-+ [A FEW GROUND RULES](#a-few-ground-rules)
-  + [You Must be Over the Legal Age](#you-must-be-over-the-legal-age)
-  + [While You Are Here, You Must Follow the Rules](#while-you-are-here-you-must-follow-the-rules)
-  + [You Are Here At the Pleasure of Customer (and Us)](#you-are-here-at-the-pleasure-of-customer-and-us)
-+ [LIMITATION OF LIABILITY](#limitation-of-liability)
-  + [Application of Consumer Law](#application-of-consumer-law)
-  + [Survival](#survival)
-+ [GENERAL PROVISIONS](#general-provisions)
-  + [Email Notifications](#email-notifications)
-  + [Privacy Policy](#privacy-policy)
-  + [Modifications](#modifications)
-  + [Waiver](#waiver)
-  + [Severability](#severability)
-  + [Assignment](#assignment)
-  + [Governing Law; Venue; Fees](#governing-law-venue-fees)
-  + [Entire Agreement](#entire-agreement)
-  + [Contacting Retool](#contacting-retool)
 
 ## THE TERMS
 

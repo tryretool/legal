@@ -1,33 +1,17 @@
 ---
 title: "Privacy Policy"
+sidebar_position: 9
 ---
 
->
-> Last updated: July 17, 2023
+:::info Last updated
+
+July 17, 2023
+
+:::
 
 This Privacy Policy explains our practices regarding the collection, use and disclosure of the information we process to provide our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. 
 
 When we refer to "Retool" ("we", "our" or "us"), we mean the Retool entity that acts as the controller or processor of your information, Retool, Inc. Please refer to the section titled 'Identity of the Data Controller and Data Processor' for more information. 
-
-+ [Introduction](#introduction)
-+ [Identity of the Data Controller and Data Processor](#identity-of-the-data-controller-and-data-processor)
-+ [Information Retool Collects and Receives](#information-retool-collects-and-receives)
-+ [How We Process your Information and our Legal Bases (under GDPR) for Doing So](#how-we-process-your-information-and-our-legal-bases-under-gdpr-for-doing-so)
-+ [Compliance With a Legal Obligation](#compliance-with-a-legal-obligation)
-+ [Legitimate Interests](#legitimate-interests)
-+ [How We Share And Disclose Information](#how-we-share-and-disclose-information)
-+ [International Data Transfers](#international-data-transfers)
-+ [Data Retention](#data-retention)
-  + [Customer Data](#customer-data)
-  + [Other Information](#other-information)
-+ [Your Rights](#your-rights)
-+ [Data Protection Authority](#data-protection-authority)
-+ [Your California Privacy Rights](#your-california-privacy-rights)
-+ [Security](#security)
-+ [Age Limitations](#age-limitations)
-+ [Data Protection Officer](#data-protection-officer)
-+ [Contact Retool](#contact-retool)
-+ [Changes To This Privacy Policy](#changes-to-this-privacy-policy)
 
 ## Introduction
 
