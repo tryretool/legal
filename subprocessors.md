@@ -24,7 +24,7 @@ Retool may use the following Subprocessors to host Customer Data or provide othe
 | ------------------------- | -------------------------------------- | ------------------------------------------------------------------- | ------------------------- |
 | Amazon Web Services, Inc. | Cloud Offerings                        | Third-party hosting provider                                        | United States             |
 | Amazon Web Services, Inc. | Workflows  <br />(Retool Cloud)          | Third-party hosting provider for queries and workflow caching       | United States             |
-| Temporal Technologies     | Workflows (Self-Hosted Offerings)      | Third-party hosting provider for workflow orchestration             | United States             |
+| Temporal Technologies     | Workflows (Self-Hosted Offerings)      | Third-party hosting provider for workflow orchestration if electing to use Retool-managed Temporal Cloud             | United States             |
 | DataStax, Inc.            | Workflows  <br />(Retool Cloud)          | Third-party hosting provider for Workflow orchestration (AstraDB)   | United States             |
 | OpenAI, Inc.              | Optional AI Features                   | Third party artificial intelligence large language model and engine | United States             |
 | Neon, Inc.                | Retool Database (Self-Serve Customers) | Third-party hosting provider                                        | United States             |
