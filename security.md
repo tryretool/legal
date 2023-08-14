@@ -31,6 +31,8 @@ When you connect a Custom App to a database provided by Retool, Retool stores Cu
 
 Note that if you enable [query or workflow caching](https://docs.retool.com/docs/caching-in-retool), Customer Data is temporarily cached by Retool for the specified cache duration. You can invalidate a query's cache—or disable query and workflow caching entirely—at any time.
 
+When you elect to deploy self-hosted Workflows with a Retool-managed Temporal cluster, only encrypted internal Workflow ids, Workflow block names, and the email addresses of the users enqueuing Workflows are stored in Temporal Technologies’ Cloud offering; no other Customer Data, code or query contents are sent to Temporal Cloud. All Customer Data is encrypted with your private encryption key prior to leaving your own VPC or VPN. The encryption key is defined within your infrastructure and is never sent to Retool or Temporal Technologies. Customer Data is stored in Temporal Cloud for 14 days by default, this retention period is configurable by submitting a request to Retool.
+
 ## Confidentiality and security controls
 
 ### Confidentiality
