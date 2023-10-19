@@ -3,12 +3,6 @@ title: "Security practices"
 sidebar_position: 5
 ---
 
-:::info Last updated
-
-August 14, 2023
-
-:::
-
 We take the security of your data very seriously at Retool. If you have additional questions regarding security, we are happy to answer them. Please write to [security@retool.com](mailto:security@retool.com) and we will respond as quickly as we can. This Security Practices page describes the administrative, technical and physical controls applicable to Retool.
 
 ## Hosting, Architecture, and configurations
