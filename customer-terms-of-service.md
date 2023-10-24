@@ -3,12 +3,6 @@ title: Customer Terms of Service
 sidebar_position: 1
 ---
 
-:::info Last updated
-
-July 17, 2023
-
-:::
-
 These Customer Terms of Service (the "Customer Terms") describe your rights and responsibilities when using our developer tools and platform (the "Services"). Please read them carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://docs.retool.com/page/user-terms) (the "User Terms") govern your access and use of the Services. 
 
 ## THE CONTRACT
