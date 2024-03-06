@@ -49,7 +49,7 @@ In general, you are not subject to a statutory or contractual obligation to prov
 
 ## How We Process your Information and our Legal Bases (under GDPR) for Doing So
 
-Customer Data will be used by Retool in accordance with Customer's instructions, including any applicable terms in the [Customer Terms of Service](https://docs.retool.com/page/customer-terms-of-service) ("Terms"), Subscription Agreement, or DPA, and as required by applicable law. As explained above, in general, Retool is a processor of Customer Data and the Customer is the controller. The Customer may, for example, use the Services to provision or deprovision access to the Custom App, enable or disable Third Party Services, manage permissions and otherwise apply its policies to the Services. 
+Customer Data will be used by Retool in accordance with Customer's instructions, including any applicable terms in the [Customer Terms of Service](https://docs.retool.com/legal/customer-terms-of-service-of-service) ("Terms"), Subscription Agreement, or DPA, and as required by applicable law. As explained above, in general, Retool is a processor of Customer Data and the Customer is the controller. The Customer may, for example, use the Services to provision or deprovision access to the Custom App, enable or disable Third Party Services, manage permissions and otherwise apply its policies to the Services. 
 
 Retool uses Other Information to operate our Services, Website and business for the following purposes:
 
