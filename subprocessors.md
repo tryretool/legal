@@ -22,7 +22,6 @@ Retool may use the following Subprocessors to host Customer Data or provide othe
 | DataStax, Inc.            | Workflows  <br />(Retool Cloud)          | Third-party hosting provider for Workflow orchestration (AstraDB)   | United States             |
 | OpenAI, Inc.              | Optional AI Features                   | Third party artificial intelligence large language model and engine | United States             |
 | Neon, Inc.                | Retool Database (Self-Serve Customers) | Third-party hosting provider                                        | United States             |
-| Supabase, Inc.            | Retool Database (Self-Serve Customers) | Third-party hosting provider                                        | United States             |
 
 ## Other Subprocessors
 
@@ -41,3 +40,5 @@ Depending on the geographic location of a Customer or their Authorized Users, an
 ## Updates
 
 As our business grows and evolves, the Subprocessors we engage may also change. We will endeavor to provide the owner of Customer's account with notice of any new Subprocessors to the extent required under the Agreement, along with posting such updates here. Please check back frequently for updates.
+
+Current customers may sign up to receive notification of new subprocessors by e-mailing [subprocessor.notification.requests@retool.com](mailto:subprocessor.notification.requests@retool.com).
