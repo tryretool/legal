@@ -1,6 +1,5 @@
 ---
 title: User Terms of Service
-sidebar_position: 2
 ---
 
 These User Terms of Service (the "User Terms") govern your access and use of our developer tools and platform (the "Service"). Please read them carefully. Even though you are signing onto an organization's account, these User Terms apply to you as a user of the Services. 

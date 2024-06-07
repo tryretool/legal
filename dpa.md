@@ -1,6 +1,5 @@
 ---
-title: "Data Processing Addendum"
-sidebar_position: 10
+title: Data Processing Addendum
 ---
 
 import Tabs from "@theme/Tabs";
