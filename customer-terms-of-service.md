@@ -147,7 +147,7 @@ As further described below, a subscription has a term that may expire or be term
 
 ### Auto-Renewal
 
-Unless an Order Form says something different, (a) all subscriptions automatically renew (without the need to go through the Subscription Page or executing a renewal Order Form) for additional periods equal to one (1) year or the preceding term, whichever is shorter; and (b) the per-unit pricing during any automatic renewal term will remain the same as it was during the immediately prior term. Either party can give the other notice of non-renewal at least thirty (30) days before the end of a subscription term to stop the subscriptions from automatically renewing. 
+Unless an Order Form says something different, (a) all subscriptions automatically renew (without the need to go through the Services-interface "check-out" or execute a renewal Order Form) for additional periods equal to one (1) year or the preceding term, whichever is shorter; and (b) the per-unit pricing during any automatic renewal term will remain the same as it was during the immediately prior term. To opt-out of automatic renewal of Customer’s paid Services subscription plan, Customer must go to its Billing settings and downgrade to a non-paid subscription plan. Retool may give Customer notice of non-renewal at least thirty (30) days before the end of a subscription term.
 
 ### Termination for Cause
 
