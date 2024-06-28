@@ -2,7 +2,7 @@
 title: Customer Terms of Service
 ---
 
-These Customer Terms of Service (the "Customer Terms") describe your rights and responsibilities when using our developer tools and platform (the "Services"). These Customer Terms also apply if you purchase any expert services that we offer to help our customers launch, accelerate or optimize their use of the Services ("Expert Services"). Please read these Customer Terms carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services and any Expert Services you receive from us. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://docs.retool.com/legal/user-terms-of-service) (the "User Terms") govern your access and use of the Services. 
+These Customer Terms of Service (the "Customer Terms") describe your rights and responsibilities when using our developer tools and platform (the "Services"). These Customer Terms also apply if you purchase any expert services that we offer to help our customers launch, accelerate or optimize their use of the Services ("Expert Services"). Please read these Customer Terms carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services and any Expert Services you receive from us. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://docs.retool.com/legal/user-terms-of-service) (the "User Terms") govern your access and use of the Services. 
 
 ## THE CONTRACT
 
@@ -82,7 +82,7 @@ If we believe that there is a violation of the Contract that can simply be remed
 
 ### Services Fees
 
-For annual Services subscription plans, and for certain monthly Services subscription plans that have been pre-approved by Retool, your Services fees will be due to Retool immediately in advance of the start of the subscription plan, including any renewals of the subscription plan (such plans being "Prepaid Plans"). Fees for Prepaid Plans will be specified on the Subscription Page, based on the monthly quantity of Authorized Users that you specify on the Subscription Page.
+For annual Services subscription plans, and for certain monthly Services subscription plans that have been pre-approved by Retool, your Services fees will be due to Retool immediately in advance of the start of the subscription plan, including any renewals of the subscription plan (such plans being "Prepaid Plans"). Fees for Prepaid Plans will be specified on the Subscription Page, based on the monthly quantity of Authorized Users that you specify on the Subscription Page.
 
 For monthly Services subscription plans that are not also a Prepaid Plan, your Services fees will be based on (i) your actual usage for the applicable monthly billing period; and (ii) Retool's then-current rates for Authorized Users. At the end of each monthly billing cycle, Retool will invoice you for such monthly fees, which will be immediately due to Retool.
 
@@ -127,7 +127,7 @@ We may leverage our employees, those of our corporate affiliates and third party
 
 ## OWNERSHIP AND PROPRIETARY RIGHTS
 
-### What's Yours is YoursÃ¢Â€Â¦
+### What's Yours is Yours
 
 As between us on the one hand, and Customer and its Authorized Users on the other, Customer will own all Customer Data and Custom Apps, but excluding the components of the Services. Subject to the terms and conditions of the Contract, Customer (for itself and all of its Users) grants us and the Retool Extended Family a worldwide, non-exclusive, limited term license to access, use, process, copy, distribute, perform, export and display Customer Data, Custom Apps and any Non-Retool Products created or deployed by or for Customer, only as reasonably necessary (a) to provide, maintain and improve the Services; (b) to prevent or address service, security, support or technical issues; (c) as required by law, to prevent fraud, or as permitted by the [Data Request Policy](https://docs.retool.com/page/data-request-policy); and (d) as expressly permitted in writing by Customer. 
 
@@ -204,7 +204,7 @@ The Receiving Party may access or disclose Confidential Information of the Discl
 
 ## SURVIVAL
 
-The sections titled "Feedback is Welcome," "Retool as a Platform," "Our Removal Rights," "A Condition of Use," "Payment Terms," "Credits," "The Retool Extended Family," "What's Yours is Yours Ã¢Â€Â¦," "And What's Ours is Ours," "Effect of Termination," "Data Portability and Deletion," "Representations; Disclaimer of Warranties," "Limitation of Liability," "Our Indemnification of Customer," "Customer's Indemnification of Us," "Limitations on Indemnifications," "Confidentiality" and "Survival," as well as all of the provisions under the general heading "General Provisions," will survive any termination or expiration of the Contract.
+The sections titled "Feedback is Welcome," "Retool as a Platform," "Our Removal Rights," "A Condition of Use," "Payment Terms," "Credits," "The Retool Extended Family," "What's Yours is Yours ," "And What's Ours is Ours," "Effect of Termination," "Data Portability and Deletion," "Representations; Disclaimer of Warranties," "Limitation of Liability," "Our Indemnification of Customer," "Customer's Indemnification of Us," "Limitations on Indemnifications," "Confidentiality" and "Survival," as well as all of the provisions under the general heading "General Provisions," will survive any termination or expiration of the Contract.
 
 ## GENERAL PROVISIONS
 
