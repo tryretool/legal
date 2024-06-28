@@ -2,7 +2,7 @@
 title: Customer Terms of Service
 ---
 
-These Customer Terms of Service (the "Customer Terms") describe your rights and responsibilities when using our developer tools and platform (the "Services"). These Customer Terms also apply if you purchase any expert services that we offer to help our customers launch, accelerate or optimize their use of the Services (â€œExpert Servicesâ€). Please read these Customer Terms carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services and any Expert Services you receive from us. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://docs.retool.com/legal/user-terms-of-service) (the "User Terms") govern your access and use of the Services. 
+These Customer Terms of Service (the "Customer Terms") describe your rights and responsibilities when using our developer tools and platform (the "Services"). These Customer Terms also apply if you purchase any expert services that we offer to help our customers launch, accelerate or optimize their use of the Services ("Expert Services"). Please read these Customer Terms carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services and any Expert Services you receive from us. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://docs.retool.com/legal/user-terms-of-service) (the "User Terms") govern your access and use of the Services. 
 
 ## THE CONTRACT
 
@@ -82,11 +82,11 @@ If we believe that there is a violation of the Contract that can simply be remed
 
 ### Services Fees
 
-For annual Services subscription plans, and for certain monthly Services subscription plans that have been pre-approved by Retool, your Services fees will be due to Retool immediately in advance of the start of the subscription plan, including any renewals of the subscription plan (such plans being â€œPrepaid Plansâ€). Fees for Prepaid Plans will be specified on the Subscription Page, based on the monthly quantity of Authorized Users that you specify on the Subscription Page.
+For annual Services subscription plans, and for certain monthly Services subscription plans that have been pre-approved by Retool, your Services fees will be due to Retool immediately in advance of the start of the subscription plan, including any renewals of the subscription plan (such plans being "Prepaid Plans"). Fees for Prepaid Plans will be specified on the Subscription Page, based on the monthly quantity of Authorized Users that you specify on the Subscription Page.
 
-For monthly Services subscription plans that are not also a Prepaid Plan, your Services fees will be based on (i) your actual usage for the applicable monthly billing period; and (ii) Retoolâ€™s then-current rates for Authorized Users. At the end of each monthly billing cycle, Retool will invoice you for such monthly fees, which will be immediately due to Retool.
+For monthly Services subscription plans that are not also a Prepaid Plan, your Services fees will be based on (i) your actual usage for the applicable monthly billing period; and (ii) Retool's then-current rates for Authorized Users. At the end of each monthly billing cycle, Retool will invoice you for such monthly fees, which will be immediately due to Retool.
 
-Payment obligations for the Services are non-cancellable, and except as expressly stated in the Contract, fees paid are non-refundable. All Services fees will be paid by Customer via a valid credit card. Customer authorizes Retool, its agents and Customerâ€™s financial institution to charge any credit card submitted by Customer for all fees due to Retool under the Contract, including fees for renewed subscription plans and, if applicable, any overages accrued as described below.
+Payment obligations for the Services are non-cancellable, and except as expressly stated in the Contract, fees paid are non-refundable. All Services fees will be paid by Customer via a valid credit card. Customer authorizes Retool, its agents and Customer's financial institution to charge any credit card submitted by Customer for all fees due to Retool under the Contract, including fees for renewed subscription plans and, if applicable, any overages accrued as described below.
 
 ### Subscription Overages
 
@@ -99,7 +99,7 @@ If applicable, Expert Services fees will be set forth in the Order Form. Unless 
 Fees are stated exclusive of any taxes, levies, duties, or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction (collectively, "Taxes"). Customer will be responsible for paying all Taxes associated with its purchases, except for those taxes based on our net income. Should any payment for the Services and/or Expert Services be subject to withholding tax by any government, Customer will reimburse us for such withholding tax.
 
 ### Late Payments
-If Retool does not receive Customerâ€™s payment of any fees due under this Contract by the applicable due date and twenty-one (21) days or more has passed since the due date, Retool may, without limiting its other rights and remedies under this Contract and its sole discretion, (i) terminate access to or suspend the Services and/or Expert Services, as applicable, upon written notice to Customer (which may be provided via email to Customerâ€™s designated billing contact) until such amounts are paid in full; or (ii) upon written notice to Customer, downgrade Customerâ€™s current Services subscription plan to a free Services subscription plan. 
+If Retool does not receive Customer's payment of any fees due under this Contract by the applicable due date and twenty-one (21) days or more has passed since the due date, Retool may, without limiting its other rights and remedies under this Contract and its sole discretion, (i) terminate access to or suspend the Services and/or Expert Services, as applicable, upon written notice to Customer (which may be provided via email to Customer's designated billing contact) until such amounts are paid in full; or (ii) upon written notice to Customer, downgrade Customer's current Services subscription plan to a free Services subscription plan. 
 
 ### Credits
 
@@ -147,7 +147,7 @@ As further described below, a subscription has a term that may expire or be term
 
 ### Auto-Renewal
 
-Unless an Order Form says something different, (a) all subscriptions automatically renew (without the need to go through the Services-interface "check-out" or execute a renewal Order Form) for additional periods equal to one (1) year or the preceding term, whichever is shorter; and (b) the per-unit pricing during any automatic renewal term will remain the same as it was during the immediately prior term. To opt-out of automatic renewal of Customer’s paid Services subscription plan, Customer must go to its Billing settings and downgrade to a non-paid subscription plan. Retool may give Customer notice of non-renewal at least thirty (30) days before the end of a subscription term.
+Unless an Order Form says something different, (a) all subscriptions automatically renew (without the need to go through the Services-interface "check-out" or execute a renewal Order Form) for additional periods equal to one (1) year or the preceding term, whichever is shorter; and (b) the per-unit pricing during any automatic renewal term will remain the same as it was during the immediately prior term. To opt-out of automatic renewal of Customer's paid Services subscription plan, Customer must go to its Billing settings and downgrade to a non-paid subscription plan. Retool may give Customer notice of non-renewal at least thirty (30) days before the end of a subscription term.
 
 ### Termination for Cause
 
