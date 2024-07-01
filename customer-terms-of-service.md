@@ -2,7 +2,7 @@
 title: Customer Terms of Service
 ---
 
-These Customer Terms of Service (the "Customer Terms") describe your rights and responsibilities when using our developer tools and platform (the "Services"). Please read them carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://docs.retool.com/legal/user-terms-of-service) (the "User Terms") govern your access and use of the Services. 
+These Customer Terms of Service (the "Customer Terms") describe your rights and responsibilities when using our developer tools and platform (the "Services"). These Customer Terms also apply if you purchase any expert services that we offer to help our customers launch, accelerate or optimize their use of the Services ("Expert Services"). Please read these Customer Terms carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services and any Expert Services you receive from us. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://docs.retool.com/legal/user-terms-of-service) (the "User Terms") govern your access and use of the Services. 
 
 ## THE CONTRACT
 
@@ -12,7 +12,7 @@ These Customer Terms (or, if applicable, your written agreement with us) and any
 
 ## Your Agreement On Behalf of "Customer" 
 
-If you purchase subscription(s) to the Services, invite individuals to use the Services, or use or allow use of the Services after being notified of a change to these Customer Terms, you acknowledge your understanding of the then-current Contract and agree to the Contract on behalf of Customer. Please make sure you have the necessary authority to enter into the Contract on behalf of Customer before proceeding. 
+If you purchase subscription(s) to the Services, invite individuals to use the Services, purchase Expert Services, or use or allow use of the Services after being notified of a change to these Customer Terms, you acknowledge your understanding of the then-current Contract and agree to the Contract on behalf of Customer. Please make sure you have the necessary authority to enter into the Contract on behalf of Customer before proceeding. 
 
 ## CUSTOMER CHOICES AND CONFIGURATIONS
 
@@ -36,7 +36,7 @@ Customer will (a) inform Authorized Users of all Customer policies and practices
 
 ### Ordering Subscriptions
 
-Subscriptions allow Customer and its Authorized Users to access the Services and to build, edit and use Custom Apps. A subscription is required for each individual and may be procured through the Services interface, or in some cases, via an order form entered into between Customer and us (each, an "Order Form"). Please see the [Documentation](https://docs.retool.com/docs/org-user-management) for more information on how to procure subscriptions, how to invite Authorized Users and how the types of Authorized Users are categorized. Subscriptions commence when we make them available to Customer and continue for the term specified in the Services "check-out" interface or in the Order Form, as applicable. We sometimes enter into other kinds of ordering arrangements, but that would need to be spelled out and agreed to in an Order Form. During an active subscription term, adding more subscriptions is fairly easy. Unless the Order Form says otherwise, Customer may invite additional Authorized Users at the price stated in the Order Form and all will terminate on the same date.
+Subscriptions allow Customer and its Authorized Users to access the Services and to build, edit and use Custom Apps. A subscription is required for each individual and may be procured through the Services interface, or in some cases, via an order form entered into between Customer and us (each, an "Order Form"). Please see the [Documentation](https://docs.retool.com/docs/org-user-management) for more information on how to procure subscriptions, how to invite Authorized Users and how the types of Authorized Users are categorized. Subscriptions commence when we make them available to Customer and continue for the term specified in the Services "check-out" interface ("Subscription Page") or in the Order Form, as applicable. We sometimes enter into other kinds of ordering arrangements, but that would need to be spelled out and agreed to in an Order Form. During an active subscription term, adding more subscriptions is fairly easy. Unless the Order Form says otherwise, Customer may invite additional Authorized Users at the price stated in the Order Form and all will terminate on the same date.
 
 ### Purchasing Decisions
 
@@ -48,7 +48,7 @@ Occasionally, we look for beta testers to help us test our new features. These f
 
 ### Feedback is Welcome
 
-The more suggestions our customers make, the better the Services become. If Customer sends us any feedback or suggestions regarding the Services, there is a chance we will use it, so Customer grants us (for itself and all of its Authorized Users and other Customer personnel) an unlimited, irrevocable, perpetual, sublicensable, transferable, royalty-free license to use any such feedback or suggestions for any purpose without any obligation or compensation to Customer, any Authorized User or other Customer personnel. If we choose not to implement the suggestion, please don't take it personally. We appreciate it nonetheless. 
+The more suggestions our customers make, the better the Services or Expert Services become. If Customer sends us any feedback or suggestions regarding the Services or Expert Services, there is a chance we will use it, so Customer grants us (for itself and all of its Authorized Users and other Customer personnel) an unlimited, irrevocable, perpetual, sublicensable, transferable, royalty-free license to use any such feedback or suggestions for any purpose without any obligation or compensation to Customer, any Authorized User or other Customer personnel. If we choose not to implement the suggestion, please don't take it personally. We appreciate it nonetheless. 
 
 ### Retool as a Platform
 
@@ -59,6 +59,10 @@ If Customer connects, installs or enables Non-Retool Products for use with the S
 ### Privacy Policy
 
 Please review our [Privacy Policy](https://docs.retool.com/page/privacy-policy) for more information on how we collect and use data relating to the use and performance of our websites and products.
+
+### Expert Services
+
+You may be able to purchase Expert Services depending on the type of Services subscription plan that you have with Retool. If Expert Services are available under your Services subscription plan and you wish to receive Expert Services, you must enter into an Order Form with Retool. If you purchase any Expert Services, the [Retool Expert Services Addendum](https://docs.retool.com/docs/expert-services-addendum) will also apply and is incorporated by reference into this Contract
 
 ## RESPONSIBILITIES OF CUSTOMER 
 
@@ -76,9 +80,26 @@ If we believe that there is a violation of the Contract that can simply be remed
 
 ## PAYMENT OBLIGATIONS
 
-### Payment Terms
+### Services Fees
 
-For Customers that purchase our Services, the fees are specified at the Services interface "check-out" and if applicable, in the Order Form(s). Unless expressly stated otherwise, fees must be paid in advance. Payment obligations are non-cancelable and, except as expressly stated in the Contract, fees paid are non-refundable. Check out our [Documentation](https://docs.retool.com/docs/organization-billing-usage) for more information about payment options and how the pricing for an Authorized User subscription is determined. For example, a 'Standard User' that builds a Custom App may be priced differently from an 'End User' that only accesses it. If we agree to invoice Customer by email, full payment must be received within thirty (30) days from the invoice date. Fees are stated exclusive of any taxes, levies, duties, or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction (collectively, "Taxes"). Customer will be responsible for paying all Taxes associated with its purchases, except for those taxes based on our net income. Should any payment for the Services be subject to withholding tax by any government, Customer will reimburse us for such withholding tax. 
+For annual Services subscription plans, and for certain monthly Services subscription plans that have been pre-approved by Retool, your Services fees will be due to Retool immediately in advance of the start of the subscription plan, including any renewals of the subscription plan (such plans being "Prepaid Plans"). Fees for Prepaid Plans will be specified on the Subscription Page, based on the monthly quantity of Authorized Users that you specify on the Subscription Page.
+
+For monthly Services subscription plans that are not also a Prepaid Plan, your Services fees will be based on (i) your actual usage for the applicable monthly billing period; and (ii) Retool's then-current rates for Authorized Users. At the end of each monthly billing cycle, Retool will invoice you for such monthly fees, which will be immediately due to Retool.
+
+Payment obligations for the Services are non-cancellable, and except as expressly stated in the Contract, fees paid are non-refundable. All Services fees will be paid by Customer via a valid credit card. Customer authorizes Retool, its agents and Customer's financial institution to charge any credit card submitted by Customer for all fees due to Retool under the Contract, including fees for renewed subscription plans and, if applicable, any overages accrued as described below.
+
+### Subscription Overages
+
+If Customer exceeds the monthly usage limits applicable to its Services subscription plan (whether such plan is a Prepaid Plan or a non-Prepaid Plan), including Authorized User limits for Prepaid Plans and other usage limits specified by Retool at https://retool.com/pricing, Customer agrees to pay Retool the fees applicable to such excess use. 
+
+### Expert Services
+If applicable, Expert Services fees will be set forth in the Order Form. Unless otherwise specified in the Order Form, full payment for Expert Services must be received within thirty (30) days from the invoice date. Payment obligations for Expert Services are non-cancellable, and except as expressly stated in the Contract, fees paid are non-refundable. 
+
+### Taxes
+Fees are stated exclusive of any taxes, levies, duties, or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction (collectively, "Taxes"). Customer will be responsible for paying all Taxes associated with its purchases, except for those taxes based on our net income. Should any payment for the Services and/or Expert Services be subject to withholding tax by any government, Customer will reimburse us for such withholding tax.
+
+### Late Payments
+If Retool does not receive Customer's payment of any fees due under this Contract by the applicable due date and twenty-one (21) days or more has passed since the due date, Retool may, without limiting its other rights and remedies under this Contract and its sole discretion, (i) terminate access to or suspend the Services and/or Expert Services, as applicable, upon written notice to Customer (which may be provided via email to Customer's designated billing contact) until such amounts are paid in full; or (ii) upon written notice to Customer, downgrade Customer's current Services subscription plan to a free Services subscription plan. 
 
 ### Credits
 
@@ -106,7 +127,7 @@ We may leverage our employees, those of our corporate affiliates and third party
 
 ## OWNERSHIP AND PROPRIETARY RIGHTS
 
-### What's Yours is Yours…
+### What's Yours is Yours
 
 As between us on the one hand, and Customer and its Authorized Users on the other, Customer will own all Customer Data and Custom Apps, but excluding the components of the Services. Subject to the terms and conditions of the Contract, Customer (for itself and all of its Users) grants us and the Retool Extended Family a worldwide, non-exclusive, limited term license to access, use, process, copy, distribute, perform, export and display Customer Data, Custom Apps and any Non-Retool Products created or deployed by or for Customer, only as reasonably necessary (a) to provide, maintain and improve the Services; (b) to prevent or address service, security, support or technical issues; (c) as required by law, to prevent fraud, or as permitted by the [Data Request Policy](https://docs.retool.com/page/data-request-policy); and (d) as expressly permitted in writing by Customer. 
 
@@ -126,7 +147,7 @@ As further described below, a subscription has a term that may expire or be term
 
 ### Auto-Renewal
 
-Unless an Order Form says something different, (a) all subscriptions automatically renew (without the need to go through the Services-interface "check-out" or execute a renewal Order Form) for additional periods equal to one (1) year or the preceding term, whichever is shorter; and (b) the per-unit pricing during any automatic renewal term will remain the same as it was during the immediately prior term. Either party can give the other notice of non-renewal at least thirty (30) days before the end of a subscription term to stop the subscriptions from automatically renewing. 
+Unless an Order Form says something different, (a) all subscriptions automatically renew (without the need to go through the Services-interface "check-out" or execute a renewal Order Form) for additional periods equal to one (1) year or the preceding term, whichever is shorter; and (b) the per-unit pricing during any automatic renewal term will remain the same as it was during the immediately prior term. To opt-out of automatic renewal of Customer's paid Services subscription plan, Customer must go to its Billing settings and downgrade to a non-paid subscription plan. Retool may give Customer notice of non-renewal at least thirty (30) days before the end of a subscription term.
 
 ### Termination for Cause
 
@@ -142,7 +163,7 @@ Upon any termination for cause by Customer, we will refund Customer any prepaid 
 
 ### Data Portability and Deletion
 
-During the term of a subscription, Customer will be permitted to export Customer Data via the Services; provided, that Customer acknowledges and agrees that such ability to export may be limited by the applicable Services plan in effect, Customer's particular configuration of Custom Apps, and the data retention settings enabled by Customer. Customer further understands that there are currently no features or functionality made available by us that enables or assists the export, transfer, translation or transition of Custom Apps off of the Services. Following the Term, Retool shall have no obligation to maintain or provide any Customer Data or Custom Apps, and upon Customer's deletion of its account, Retool shall, unless legally prohibited, delete all Customer Data and Custom Apps in its systems or otherwise in its possession or under its control in accordance with the practices set forth on its Security Practices Page. 
+During the term of a subscription, Customer will be permitted to export Customer Data via the cloud-based Services; provided, that Customer acknowledges and agrees that such ability to export may be limited by the applicable Services plan in effect, Customer's particular configuration of Custom Apps, and the data retention settings enabled by Customer. Customer further understands that there are currently no features or functionality made available by us that enables or assists the export, transfer, translation or transition of Custom Apps off of the Services. Following the Term, Retool shall have no obligation to maintain or provide any Customer Data or Custom Apps, and upon Customer's deletion of its account, Retool shall, unless legally prohibited, delete all Customer Data and Custom Apps in its systems or otherwise in its possession or under its control in accordance with the practices set forth on its Security Practices Page. 
 
 ## REPRESENTATIONS; DISCLAIMER OF WARRANTIES
 
@@ -183,7 +204,7 @@ The Receiving Party may access or disclose Confidential Information of the Discl
 
 ## SURVIVAL
 
-The sections titled "Feedback is Welcome," "Retool as a Platform," "Our Removal Rights," "A Condition of Use," "Payment Terms," "Credits," "The Retool Extended Family," "What's Yours is Yours …," "And What's Ours is Ours," "Effect of Termination," "Data Portability and Deletion," "Representations; Disclaimer of Warranties," "Limitation of Liability," "Our Indemnification of Customer," "Customer's Indemnification of Us," "Limitations on Indemnifications," "Confidentiality" and "Survival," as well as all of the provisions under the general heading "General Provisions," will survive any termination or expiration of the Contract.
+The sections titled "Feedback is Welcome," "Retool as a Platform," "Our Removal Rights," "A Condition of Use," "Payment Terms," "Credits," "The Retool Extended Family," "What's Yours is Yours ," "And What's Ours is Ours," "Effect of Termination," "Data Portability and Deletion," "Representations; Disclaimer of Warranties," "Limitation of Liability," "Our Indemnification of Customer," "Customer's Indemnification of Us," "Limitations on Indemnifications," "Confidentiality" and "Survival," as well as all of the provisions under the general heading "General Provisions," will survive any termination or expiration of the Contract.
 
 ## GENERAL PROVISIONS
 
