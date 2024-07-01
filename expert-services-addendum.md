@@ -86,7 +86,7 @@ except as expressly set forth herein, fees paid are non-refundable.
 
 ## 6. DISCLAIMER OF WARRANTIES 
 
-**6.1.**EXCEPT  AS  EXPRESSLY  SET  FORTH  IN  THIS  ADDENDUM,  RETOOL  DISCLAIMS  ALL  WARRANTIES, 
+**6.1.** EXCEPT  AS  EXPRESSLY  SET  FORTH  IN  THIS  ADDENDUM,  RETOOL  DISCLAIMS  ALL  WARRANTIES, 
 EXPRESS  OR  IMPLIED,  RELATED  TO  THE  EXPERT  SERVICES,  INCLUDING  WITHOUT  LIMITATION,  ANY 
 WARRANTIES OF NON-INFRINGEMENT, TITLE, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE. 
 THE EXPERT SERVICES ARE PROVIDED "AS IS". THE EXPERT SERVICES, INCLUDING ANY MATERIALS PROVIDED 
@@ -95,15 +95,16 @@ CORRESPONDING STATEMENT OF WORK.
 
 ## 7. INDEMNIFICATION 
 
-**7.1.**The following obligations will supplement a party's defense and indemnification obligations under the 
+**7.1.** The following obligations will supplement a party's defense and indemnification obligations under the 
 Agreement, subject to any procedures, restrictions and exclusions set forth therein.
 
-**7.2.**Customer  will  defend  Retool  and  its  Affiliates,  and  its  and their respective officers, directors, 
+**7.2.** Customer  will  defend  Retool  and  its  Affiliates,  and  its  and their respective officers, directors, 
 employees and contractors, from and against a suit or proceeding by a third party arising from or related to 
 Retool's use of Customer Materials in accordance with this Addendum and shall indemnify Retool for any 
 damages, attorney fees and costs finally awarded against Retool as a result of, or for any amounts paid by 
 Retool under a court-approved settlement of such claim against Retool.
-**7.3.**Retool  will  defend  Customer  and  its  Affiliates,  and  its  and  their  respective  officers,  directors, 
+
+**7.3.** Retool  will  defend  Customer  and  its  Affiliates,  and  its  and  their  respective  officers,  directors, 
 employees and contractors, from and against a suit or proceeding by a third party arising from or related to 
 Customer's use of Deliverables or Retool Technology in accordance with this Addendum and shall indemnify 
 Retool for any damages, attorney fees and costs finally awarded against Retool as a result of, or for any 
@@ -114,14 +115,14 @@ Customer or on Customer's behalf to create such Deliverable.
 
 ## 8. LIMITATION OF LIABILITY 
 
-**8.1.**EXCEPT  FOR  DAMAGES  ARISING  OUT  OF  EITHER  PARTY'S  GROSS  NEGLIGENCE  OR  WILLFUL 
+**8.1. Limitation of Liability** EXCEPT  FOR  DAMAGES  ARISING  OUT  OF  EITHER  PARTY'S  GROSS  NEGLIGENCE  OR  WILLFUL 
 MISCONDUCT, IN NO EVENT SHALL EITHER PARTY'S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO 
 THIS ADDENDUM (WHETHER IN CONTRACT OR TORT OR UNDER ANY OTHER THEORY OF LIABILITY) EXCEED 
 THE TOTAL FEES PAID BY CUSTOMER FOR THE EXPERT SERVICES OUT OF WHICH THE LIABILITY AROSE. THE 
 FOREGOING  SHALL  NOT  LIMIT  CUSTOMER'S  PAYMENT OBLIGATIONS UNDER  THE  "FEES  AND PAYMENT" 
 SECTION ABOVE. 
 
-**8.2.Exclusion of Consequential and Related Damages.** IN NO EVENT SHALL EITHER PARTY HAVE ANY 
+**8.2. Exclusion of Consequential and Related Damages.** IN NO EVENT SHALL EITHER PARTY HAVE ANY 
 LIABILITY TO THE OTHER PARTY OR TO ANY THIRD PARTY FOR ANY LOST PROFITS OR REVENUES OR FOR ANY 
 INDIRECT,  SPECIAL,  INCIDENTAL,  CONSEQUENTIAL,  COVER  OR  PUNITIVE  DAMAGES  HOWEVER  CAUSED, 
 WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, AND WHETHER OR NOT THE 
