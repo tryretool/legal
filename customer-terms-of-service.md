@@ -93,12 +93,15 @@ Payment obligations for the Services are non-cancellable, and except as expressl
 If Customer exceeds the monthly usage limits applicable to its Services subscription plan (whether such plan is a Prepaid Plan or a non-Prepaid Plan), including Authorized User limits for Prepaid Plans and other usage limits specified by Retool at https://retool.com/pricing, Customer agrees to pay Retool the fees applicable to such excess use. 
 
 ### Expert Services
+
 If applicable, Expert Services fees will be set forth in the Order Form. Unless otherwise specified in the Order Form, full payment for Expert Services must be received within thirty (30) days from the invoice date. Payment obligations for Expert Services are non-cancellable, and except as expressly stated in the Contract, fees paid are non-refundable. 
 
 ### Taxes
+
 Fees are stated exclusive of any taxes, levies, duties, or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction (collectively, "Taxes"). Customer will be responsible for paying all Taxes associated with its purchases, except for those taxes based on our net income. Should any payment for the Services and/or Expert Services be subject to withholding tax by any government, Customer will reimburse us for such withholding tax.
 
 ### Late Payments
+
 If Retool does not receive Customer's payment of any fees due under this Contract by the applicable due date, Retool may immediately, without limiting its other rights and remedies under this Contract and its sole discretion, (i) terminate access to or suspend the Services and/or Expert Services, as applicable, upon written notice to Customer (which may be provided via email to Customer's designated billing contact) until such amounts are paid in full; or (ii) upon written notice to Customer, downgrade Customer's current Services subscription plan to a free Services subscription plan. 
 
 ### Credits
