@@ -32,10 +32,10 @@ For P1-P3 issues, Retool will be available for support (excluding on local offic
 
 | Region         | Support Hours                                                          |
 | ------------------ | -------------------------------------------------------------------------- |
-| **US West**        | 9 am - 5 pm US Pacific Time; Mondays through Fridays.                     |
-| **US East**        | 9 am - 5 pm US Eastern Time; Mondays through Fridays.                      |
-| **EMEA**           | 9 am - 5 pm GMT/BST; Mondays through Fridays.                              |
-| **US Late (APAC)** |  5 pm - 1 am US Pacific Time; Sundays through Fridays, 1 am US Pacific Time. |
+| **US West**        | 9 am - 5 pm US Pacific Time; Mondays through Fridays                       |
+| **US East**        | 9 am - 5 pm US Eastern Time; Mondays through Fridays                       |
+| **EMEA**           | 9 am - 5 pm GMT/BST; Mondays through Fridays                               |
+| **US Late (APAC)** |  5 pm - 1 am US Pacific Time; Sundays through Fridays, 1 am US Pacific Time  |
 
 Hours of coverage will be adjusted in accordance with locale-specific daylight-saving changes.
 
@@ -47,10 +47,10 @@ Retool’s target response times to Support Tickets are based on the priority le
 
 | Priority Level | Target Response Times (Enterprise) |
 | :------------: | ---------------------------------- |
-|       P0       | 2 global business hours.           |
-|       P1       | 1 business day.                    |
-|       P2       | 2 business days.                   |
-|       P3       | 4 business days.                   |
+|       P0       | 2 global business hours            |
+|       P1       | 1 business day                     |
+|       P2       | 2 business days                    |
+|       P3       | 4 business days                    |
 
 Resolution times are dependent on the nature and complexity of the issue raised by Customer and Customer’s active engagement and assistance may be required to support resolution in a timely manner. 
 
