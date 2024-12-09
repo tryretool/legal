@@ -1,6 +1,5 @@
 ---
 title: "Privacy Policy"
-sidebar_position: 9
 ---
 
 This Privacy Policy explains our practices regarding the collection, use and disclosure of the information we process to provide our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. 
