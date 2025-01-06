@@ -1,6 +1,7 @@
 ---
-title: Acceptable Use Policy
+title: 'Acceptable Use Policy'
 ---
+
 
 This Acceptable Use Policy sets out a list of acceptable and unacceptable conduct for our Services. If we believe a violation of the policy is deliberate, repeated or presents a credible risk of harm to other users, our customers, the Services or any third parties, we may suspend or terminate your access. This policy may change as Retool grows and evolves, so please check back regularly for updates and changes. Capitalized terms used below but not defined in this policy have the meaning set forth in the User Terms of Service.
 
@@ -36,7 +37,7 @@ Do not:
  * access or use the Services or any Custom Apps on behalf of, or for the benefit of, any Patent Assertion Entity (as defined in the Customer-Specific Supplement); or
  * authorize, permit, enable, induce or encourage any third party to do any of the above.
 
-## Contacting Retool
+## Contact Retool
 
 Please also feel free to contact us if you have any questions about Retool's Acceptable Use Policy. You may contact us at support@retool.com or at our mailing address below:
 
