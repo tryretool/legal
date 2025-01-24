@@ -40,4 +40,4 @@ Depending on the geographic location of a Customer or their Authorized Users, an
 
 As our business grows and evolves, the Subprocessors we engage may also change. We will endeavor to provide the owner of Customer's account with notice of any new Subprocessors to the extent required under the Agreement, along with posting such updates here. Please check back frequently for updates.
 
-Current customers may sign up to receive notification of new subprocessors by e-mailing [subprocessor.notification.requests@retool.com](mailto:subprocessor.notification.requests@retool.com).
+Current customers may sign up to receive notification of new subprocessors by e-mailing [subprocessor.notification.requests@retool.com](mailto:subprocessor.notification.requests@retool.com).
