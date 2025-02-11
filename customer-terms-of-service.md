@@ -1,8 +1,9 @@
 ---
-title: Customer Terms of Service
+title: 'Customer Terms of Service'
 ---
 
-These Customer Terms of Service (the "Customer Terms") describe your rights and responsibilities when using our developer tools and platform (the "Services"). These Customer Terms also apply if you purchase any expert services that we offer to help our customers launch, accelerate or optimize their use of the Services ("Expert Services"). Please read these Customer Terms carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services and any Expert Services you receive from us. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://docs.retool.com/legal/user-terms-of-service) (the "User Terms") govern your access and use of the Services. 
+
+These Customer Terms of Service (the "Customer Terms") describe your rights and responsibilities when accessing and using our developer tools and platform (the "Services"). These Customer Terms also apply if you purchase any expert services that we offer to help our customers launch, accelerate or optimize their use of the Services ("Expert Services"). Please read these Customer Terms carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services and any Expert Services you receive from us. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://docs.retool.com/legal/user-terms-of-service) (the "User Terms") govern your access and use of the Services. 
 
 ## THE CONTRACT
 
@@ -20,13 +21,15 @@ If you purchase subscription(s) to the Services, invite individuals to use the S
 
 "Customer" is the organization that you represent in agreeing to the Contract. If the Services are being set up by someone who is not formally affiliated with an organization, Customer is the individual setting them up. If you signed up for a plan using your corporate email domain, your organization is Customer, and Customer can modify and re-assign roles for your Services (including your role) and otherwise exercise its rights under the Contract. If Customer elects to replace you as the representative with ultimate authority for the Services, we will provide you with notice following such election and you agree to take any actions reasonably requested by us or Customer to facilitate the transfer of authority to a new representative of Customer. 
 
+By accessing or using the Services, you represent and warrant that you have the legal right to do so and have the power to enter into a binding contract with Retool, either for yourself or on behalf of the entity on whose behalf you are using the Services.
+
 ### Who is an "Authorized User"?
 
-Under the Contract, an "Authorized User" is an individual, such as an employee, contractor or client of Customer, who is invited by Customer to use the Services. Depending on the subscription plan in effect and how Customer elects to configure the Services, Authorized Users may have varying levels of roles, access and permission. For example, Authorized Users with broad access and permission may be able to build applications, workflows and processes using the Services (each, a "Custom App"), while others may only be able to access Custom Apps as end users. 
+Under the Contract, an "Authorized User" is an individual, such as an employee, contractor or client of Customer, who is invited by Customer to use the Services. Depending on the subscription plan in effect and how Customer elects to configure the Services, Authorized Users may have varying levels of roles, access and permission. For example, Authorized Users with broad access and permission may be able to build Custom Apps (as defined below) , while others may only be able to access Custom Apps as end users. 
 
 ### How can "Custom Apps" be Built and Used?
 
-Custom Apps are configured by dragging and dropping one or more of Retool's building blocks, such as its tables, lists, charts, maps and wikis onto a blank canvas, and organizing them into a user-interface. Using various APIs and integrations through the Services, these components can be connected to almost any database or data resource of Customer's choosing (each, when connected, a "Database") so that Authorized Users can use the Custom Apps to run queries, business logic and/or workflows.
+"Custom Apps" are applications, workflows, or processes that are customized, programmed, or developed using the Services. Custom Apps are configured by dragging and dropping one or more of Retool's building blocks, such as its tables, lists, charts, maps and wikis onto a blank canvas, and organizing them into a user-interface. Using various APIs and integrations through the Services, these components can be connected to almost any database or data resource of Customer's choosing (each, when connected, a "Database") so that Authorized Users can use the Custom Apps to run queries, business logic and/or workflows.
 
 ### What is "Customer Data"?
 
@@ -62,13 +65,13 @@ Please review our [Privacy Policy](https://docs.retool.com/page/privacy-policy) 
 
 ### Expert Services
 
-You may be able to purchase Expert Services depending on the type of Services subscription plan that you have with Retool. If Expert Services are available under your Services subscription plan and you wish to receive Expert Services, you must enter into an Order Form with Retool. If you purchase any Expert Services, the [Retool Expert Services Addendum](https://docs.retool.com/docs/expert-services-addendum) will also apply and is incorporated by reference into this Contract
+You may be able to purchase Expert Services depending on the type of Services subscription plan that you have with Retool. If Expert Services are available under your Services subscription plan and you wish to receive Expert Services, you must enter into an Order Form with Retool. If you purchase any Expert Services, the [Retool Expert Services Addendum](https://docs.retool.com/legal/expert-services-addendum) will also apply and is incorporated by reference into this Contract
 
 ## RESPONSIBILITIES OF CUSTOMER 
 
 ### Use of the Services
 
-Customer, including its Authorized Users, must at all times comply with the Contract and the Acceptable Use Policy. We may review conduct for compliance purposes, but we have no obligation to do so. Customer, and not Retool, is responsible for ensuring that (a) it's configuration of the Services and Custom Apps, including the types of data and information queried, collected, inputted and processed, are lawful and suitable for Customer's particular purposes, (b) any actions or decisions Customer takes based on the Services and Custom Apps, regardless of any results, reports or recommendations generated by Retool, are lawful, and (c) all Authorized Users are over the applicable statutory legal age. 
+Customer, including its Authorized Users, must at all times comply with the Contract and the Acceptable Use Policy. We may review conduct for compliance purposes, but we have no obligation to do so. Customer, and not Retool, is responsible for ensuring that (a) its configuration of the Services and Custom Apps, including the types of data and information queried, collected, inputted and processed, are lawful and suitable for Customer's particular purposes, (b) any actions or decisions Customer takes based on the Services and Custom Apps, regardless of any results, reports or recommendations generated by Retool, are lawful, and (c) all Authorized Users are over the applicable statutory legal age. 
 
 ### Responsibilities To, and For, Authorized Users
 
@@ -205,6 +208,16 @@ The Receiving Party will (a) take at least reasonable measures to prevent the un
 
 The Receiving Party may access or disclose Confidential Information of the Disclosing Party if it is required by law; provided, however, that the Receiving Party gives the Disclosing Party prior notice of the compelled access or disclosure (to the extent legally permitted) and reasonable assistance, at the Disclosing Party's cost, if the Disclosing Party wishes to contest the access or disclosure. Without limiting the foregoing, please review the [Data Request Policy](https://docs.retool.com/page/data-request-policy) for details on how requests may be made for the disclosure of Customer Data and how we will handle those requests. If the Receiving Party is compelled by law to access or disclose the Disclosing Party's Confidential Information, the Disclosing Party will reimburse the Receiving Party for its reasonable cost of compiling and providing access to such Confidential Information as well as the reasonable cost for any support provided in connection with the Disclosing Party seeking a protective order or confidential treatment for the Confidential Information to be produced.
 
+## PRODUCT SPECIFIC TERMS FOR AGENCIES
+
+This section applies if Customer is an agency or freelancer that builds applications for its own clients ("Agency Clients") and it has been approved by Retool to use the Services under the Agency plan ("Agency Plan"). 
+
+If Customer uses the Services under an Agency Plan, Customer will be permitted to build prototypes of Custom Applications for Agency Clients in its Retool instance, but it must require Agency Clients to create their own Retool account subject to these Customer Terms, purchase a Services subscription plan appropriate to the Agency Client's use case, and import the Custom Application before making it available for production use by Agency Client's users. If Customer continues to host an Agency Client's Custom Application on Customer's own instance of Retool, Retool may, in its discretion with at least ten (10) days' written notice to Customer (which may be provided via email), downgrade Customer from the Agency Plan to a free subscription plan or suspend Customer and its Authorized Users' use of the Services until the Agency Client imports the Custom Application to its Retool instance.  
+
+In addition to Customer's other indemnification obligations under these Customer Terms, Customer will defend the Retool Indemnified Parties from and against any and all claims, actions, suits, proceedings, and demands made or brought by an Agency Client against Retool that arises from Customer's acts or omissions during the course of its relationship with the Agency Client, and will indemnify the Retool Indemnified Parties for all reasonable attorney's fees incurred and damages and other costs finally awarded against a Retool Indemnified Party in connection with or as a result of, and for amounts paid by a Retool Indemnified Party under a settlement Customer approves of in connection with, such claim, action, suit, proceeding, or demand. The "Limitations on Indemnification" section of these Customer Terms will apply to Customer's indemnification obligations under this section. 
+
+
+
 ## SURVIVAL
 
 The sections titled "Feedback is Welcome," "Retool as a Platform," "Our Removal Rights," "A Condition of Use," "Payment Terms," "Credits," "The Retool Extended Family," "What's Yours is Yours ," "And What's Ours is Ours," "Effect of Termination," "Data Portability and Deletion," "Representations; Disclaimer of Warranties," "Limitation of Liability," "Our Indemnification of Customer," "Customer's Indemnification of Us," "Limitations on Indemnifications," "Confidentiality" and "Survival," as well as all of the provisions under the general heading "General Provisions," will survive any termination or expiration of the Contract.
@@ -213,7 +226,7 @@ The sections titled "Feedback is Welcome," "Retool as a Platform," "Our Removal 
 
 ### Publicity
 
-Customer grants us the right to use Customer's company name and logo as a reference for marketing or promotional purposes on our website and in other public or private communications with our existing or potential customers, subject to Customer's standard trademark usage guidelines as provided to us from time-to-time. We don't want to list customers who don't want to be listed, so Customer may send us an email to support@retool.com stating that it does not wish to be used as a reference.
+Customer grants us the right to use Customer's company name and logo as a reference for marketing or promotional purposes on our website and in other public or private communications with our existing or potential customers, subject to Customer's standard trademark usage guidelines as provided to us from time-to-time. We don't want to list customers who don't want to be listed, so Customer may send us an email to advocacy@retool.com stating that it does not wish to be used as a reference.
 
 ### Force Majeure
 
