@@ -34,7 +34,7 @@ Do not:
  * use Custom Apps to send altered, deceptive or false source-identifying information, including "spoofing" or "phishing";
  * abuse referrals or promotions, for example to get more credits than deserved;
  * sublicense, resell, time share or similarly exploit the Services, unless otherwise permitted by Retool;
-* use the Services in a manner that Retool determines, in its discretion, circumvents or bypasses fees payable to Retool;
+ * use the Services in a manner that Retool determines, in its discretion, circumvents or bypasses fees payable to Retool;
  * access or use the Services or any Custom Apps on behalf of, or for the benefit of, any Patent Assertion Entity (as defined in the Customer-Specific Supplement); or
  * authorize, permit, enable, induce or encourage any third party to do any of the above.
 
