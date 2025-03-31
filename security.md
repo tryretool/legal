@@ -2,7 +2,7 @@
 title: Security practices
 ---
 
-We take the security of your data very seriously at Retool. If you have additional questions regarding security, we are happy to answer them. Please write to [security@retool.com](mailto:security@retool.com) and we will respond as quickly as we can. This Security Practices page describes the administrative, technical and physical controls applicable to Retool.
+We take the security of your data very seriously at Retool. If you have additional questions regarding security, we are happy to answer them. Please write to [security@retool.com](mailto:security@retool.com) and we will respond as quickly as we can or check our self serve [Trust Center](https://trust.retool.com/) for more security information. This Security Practices page describes the administrative, technical and physical controls applicable to Retool.
 
 ## Hosting, Architecture, and configurations
 
@@ -71,11 +71,11 @@ The Retool services provide the option for administrators to delete Custom Apps 
 
 ### Certifications
 
-Certifications are performed on the Retool services, and Customers may download a copy of available applicable certifications by reaching out to [security@retool.com](mailto:security@retool.com). At a minimum, Retool will align with prevailing industry standards such as SOC 2 Type 2, or any successor or superseding standard.
+Certifications are performed on the Retool services, and Customers may download a copy of available applicable certifications by heading to our self serve [Trust Center](https://trust.retool.com/). At a minimum, Retool will align with prevailing industry standards such as SOC 2 Type 2, or any successor or superseding standard.
 
 ### Audits
 
-To verify that our security practices are sound and to monitor the Retool services for new vulnerabilities discovered by the security research community, the Retool services undergo security assessments by internal personnel, and for the Retool services by respected external security firms who perform regular audits of the Retool services. In addition to periodic and targeted audits of the Retool services, we also employ the use of continuous hybrid automated scanning of our web platform. Customers may download a copy of available applicable external audit reports by reaching out to [security@retool.com](mailto:security@retool.com).
+To verify that our security practices are sound and to monitor the Retool services for new vulnerabilities discovered by the security research community, the Retool services undergo security assessments by internal personnel, and for the Retool services by respected external security firms who perform regular audits of the Retool services. In addition to periodic and targeted audits of the Retool services, we also employ the use of continuous hybrid automated scanning of our web platform. Customers may download a copy of available applicable external audit reports by heading to our self serve [Trust Center](https://trust.retool.com/).
 
 ### Intrusion Detection
 
