@@ -24,7 +24,7 @@ The Retool Support Channels available to Customer will depend on Customer's curr
 
 ### Slack Support Channel
 
-Customers with the Premium Support Plan have the option to create Support Tickets via an integration in a Slack Connect shared channel connected to Retool's Slack Organization. All Support Tickets submitted to the Slack Support Channel will be automatically categorized as a P3 issue. To open higher priority issues, please use the Help Portal.
+Customers with the Premium Support Plan have the option to create Support Tickets via an integration in a Slack Connect shared channel connected to Retool's Slack Organization. If Retool receives a Support Ticket for the same issue in both the Help Portal and the Slack Support Channel, Retool will be permitted to close one of the tickets provided that assistance resumes in the other channel. To ensure streamlined communication and efficient responses, Retool recommends using one channel when submitting Support Tickets for each issue.
 
 ## Support Hours and Regions
 
