@@ -5,7 +5,7 @@ title: 'Acceptable Use Policy'
 
 This Acceptable Use Policy sets out a list of acceptable and unacceptable conduct for our Services. If we believe a violation of the policy is deliberate, repeated or presents a credible risk of harm to other users, our customers, the Services or any third parties, we may suspend or terminate your access, or if you use the Services under a paid subscription plan, we may downgrade your plan to a free plan. This policy may change as Retool grows and evolves, so please check back regularly for updates and changes. Capitalized terms used below but not defined in this policy have the meaning set forth in the User Terms of Service.
 
-Do:
+Do :
 
 * comply with all User Terms of Service, including the terms of this Acceptable Use Policy;
 * comply with all applicable laws and governmental regulations, including, but not limited to, all intellectual property, data, privacy, and export control laws, and regulations promulgated by any government agencies;
