@@ -1,5 +1,6 @@
 ---
 title: Retool Support Policy
+slug: ../retool-support-policy
 ---
 
 This Retool Support Policy ("**Policy**") is subject to the terms and conditions between Retool and Customer, as referenced in the applicable Order Form (the "**Agreement**"). Capitalized terms used but not otherwise defined in this Policy will have the definitions given to them in the Agreement.
@@ -13,7 +14,7 @@ This Policy describes Retool's support services under the following Support Plan
 
 ## Retool Support
 
-At all times during the subscription term of the Order Form, Retool will maintain a sufficient number of personnel who are experienced, knowledgeable, and qualified in the use and support of the Services. Retool will respond to Customer's support tickets related to the Services, which must be submitted by Customer to a Retool Support Channel ("**Support Tickets**"), in accordance with this Policy. All support by Retool will be performed remotely and in the English language. 
+At all times during the subscription term of the Order Form, Retool will maintain a sufficient number of personnel who are experienced, knowledgeable, and qualified in the use and support of the Services. Retool will respond to Customer's support tickets related to the Services, which must be submitted by Customer to a Retool Support Channel ("**Support Tickets**"), in accordance with this Policy. All support by Retool will be performed remotely and in the English language.
 
 The Retool Support Channels available to Customer will depend on Customer's current Support Plan:
 
@@ -39,20 +40,20 @@ Retool's support hours are based on Customer's current Support Plan and the prio
 
 ### Support Regions
 
-* US West: 9 am \- 5 pm US Pacific Time; Mondays through Fridays  
-* US East: 9 am \- 5 pm US Eastern Time; Mondays through Fridays  
-* EMEA: 9 am \- 5 pm GMT/BST; Mondays through Fridays  
+* US West: 9 am \- 5 pm US Pacific Time; Mondays through Fridays
+* US East: 9 am \- 5 pm US Eastern Time; Mondays through Fridays
+* EMEA: 9 am \- 5 pm GMT/BST; Mondays through Fridays
 * US Late (APAC): 5 pm \- 1 am US Pacific Time; Sundays through Fridays
 
-Hours of coverage will be adjusted in accordance with locale-specific daylight-saving changes. 
+Hours of coverage will be adjusted in accordance with locale-specific daylight-saving changes.
 
-If Customer is under the Enterprise Support Plan, Customer may change its preferred Support Region no more than once during the term of the current Order Form. To request a change in Customer's preferred Support Region, Customer must submit a P3 Support Ticket to the Retool Help Portal. 
+If Customer is under the Enterprise Support Plan, Customer may change its preferred Support Region no more than once during the term of the current Order Form. To request a change in Customer's preferred Support Region, Customer must submit a P3 Support Ticket to the Retool Help Portal.
 
 ## Priority Level Descriptions; Target Response Times
 
-Priority level descriptions, along with target response times corresponding to Customer's current Support Plan, are set forth in the table below. 
+Priority level descriptions, along with target response times corresponding to Customer's current Support Plan, are set forth in the table below.
 
-Resolution times are dependent on the nature and complexity of the issue raised by Customer. Customer's active engagement and assistance may be required to support resolution in a timely manner. 
+Resolution times are dependent on the nature and complexity of the issue raised by Customer. Customer's active engagement and assistance may be required to support resolution in a timely manner.
 
 | Priority Level\*\* and Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Target Response Times\* for Enterprise Support | Target Response Times\* for Premium Support |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: |
@@ -63,7 +64,7 @@ Resolution times are dependent on the nature and complexity of the issue raised 
 
 \*  "Target Response Time" means the time between Retool's receipt of any Customer message within a Support Ticket, including the initial submission, and Retool's next response via one of its personnel.
 
-\*\*  Customer will have the ability to designate the priority level of its Support Tickets if submitted via the Retool Help Portal. Retool may reassign the priority level, provided that such reassignment follows criteria set forth in the table above. 
+\*\*  Customer will have the ability to designate the priority level of its Support Tickets if submitted via the Retool Help Portal. Retool may reassign the priority level, provided that such reassignment follows criteria set forth in the table above.
 
 ## Customer Responsibilities
 
@@ -71,11 +72,11 @@ To assist Retool in addressing and troubleshooting requests, Customer must remai
 
 ## Exclusions
 
-Retool's support offering is limited to issues in the base delivered functionality of the Services, as described in the applicable Documentation and will not include administering Authorized User access to the Services or use of Custom Apps. Retool's support offering does not apply to (i) deprecated versions of the Services that are no longer supported by Retool (as specified in the applicable Documentation), (ii) Trial Products;  (iii) Customer's infrastructure or other failures related to Customer's deployment; or (iv) issues caused by Customer's use of the Services in breach of the Agreement or the applicable Documentation. 
+Retool's support offering is limited to issues in the base delivered functionality of the Services, as described in the applicable Documentation and will not include administering Authorized User access to the Services or use of Custom Apps. Retool's support offering does not apply to (i) deprecated versions of the Services that are no longer supported by Retool (as specified in the applicable Documentation), (ii) Trial Products;  (iii) Customer's infrastructure or other failures related to Customer's deployment; or (iv) issues caused by Customer's use of the Services in breach of the Agreement or the applicable Documentation.
 
 ## Disclaimers
 
-In response to support requests raised by Customer in accordance with this Policy, Retool may offer temporary workarounds, patches, bypass procedures, or other solutions to mitigate the effects of the issue. Retool does not guarantee that it will be able to resolve all issues raised by Customer under this Policy. 
+In response to support requests raised by Customer in accordance with this Policy, Retool may offer temporary workarounds, patches, bypass procedures, or other solutions to mitigate the effects of the issue. Retool does not guarantee that it will be able to resolve all issues raised by Customer under this Policy.
 
 ## Operational Changes
 

@@ -1,5 +1,6 @@
 ---
 title: "Open Source License Disclosure"
+slug: ../open-source-license-disclosure
 ---
 
 Retool makes use of free and open source software that are subject to the following licenses.
