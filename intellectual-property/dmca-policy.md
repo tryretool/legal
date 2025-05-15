@@ -1,20 +1,12 @@
 ---
 title: DMCA Policy
 slug: ../dmca-policy
-description: Retool's process for reporting and responding to copyright infringement claims under the DMCA.
 tags:
   - free
   - team
   - business
   - enterprise
 ---
-
-:::warning
-
-Applicable to all customers.
-
-:::
-
 
 We take the intellectual property rights of others seriously and require that our Customers and their Authorized Users do the same. The Digital Millennium Copyright Act established a process for addressing claims of copyright infringement that we have implemented for Retool services. If you **own a copyright or have authority to act on behalf of a copyright owner** and want to report a claim that a third party is infringing that material on or through a Retool service, please send a notice to our copyright agent that includes all of the items below and we will expeditiously take appropriate action:
 

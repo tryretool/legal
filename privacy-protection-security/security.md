@@ -1,19 +1,12 @@
 ---
 title: Security practices
 slug: ../security-practices
-description: Administrative, technical, and physical security measures Retool implements to protect customer data.
 tags:
   - free
   - team
   - business
   - enterprise
 ---
-
-:::warning
-
-Applicable to all customers.
-
-:::
 
 We take the security of your data very seriously at Retool. If you have additional questions regarding security, we are happy to answer them. Please write to [security@retool.com](mailto:security@retool.com) and we will respond as quickly as we can or check our self serve [Trust Center](https://trust.retool.com/) for more security information. This Security Practices page describes the administrative, technical and physical controls applicable to Retool.
 

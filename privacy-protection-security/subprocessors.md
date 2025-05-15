@@ -1,18 +1,11 @@
 ---
 title: Subprocessors
 slug: ../subprocessors
-description: The subprocessors used by Retool to support its services, including their roles and locations.
   - free
   - team
   - business
   - enterprise
 ---
-
-:::warning
-
-Applicable to all customers.
-
-:::
 
 To support delivery of our Services, Retool, Inc. (or one of its Affiliates listed below), may engage and use data processors with access to certain Customer Data (each, a "Subprocessor"). This page provides important information about the identity, location and role of each Subprocessor. Terms used on this page but not defined have the meaning set forth in the [Customer Terms of Service](https://docs.retool.com/legal/customer-terms-of-service) (or if applicable, the superseding written agreement between Customer and Retool or a Retool affiliate(s)) (the "Agreement").
 

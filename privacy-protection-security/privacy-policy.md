@@ -1,19 +1,12 @@
 ---
 title: "Privacy Policy"
 slug: ../privacy-policy
-description: How Retool collects, uses, and discloses personal information in connection with its services.
 tags:
   - free
   - team
   - business
   - enterprise
 ---
-
-:::warning
-
-Applicable to all customers.
-
-:::
 
 This Privacy Policy explains our practices regarding the collection, use and disclosure of the information we process to provide our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services.
 
