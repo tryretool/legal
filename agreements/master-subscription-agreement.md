@@ -1,7 +1,17 @@
 ---
 title: Master Subscription Agreement
 slug: ../master-subscription-agreement
+description: Establishes the legal framework for Retool’s subscription services, including terms of acceptance and authority to bind the customer.
+tags:
+  - enterprise
 ---
+
+:::warning
+
+Applicable to customers on the Enterprise plan.
+
+:::
+
 
 This Master Subscription Agreement (this **“Agreement”**) is entered into by and between Retool Inc., a Delaware corporation with offices at 1550 Bryant Street, San Francisco, CA 94103 (**“Retool”**) and the customer identified in the Order Form that references this Agreement (**“Customer”**). The individual accepting this Agreement on Customer’s behalf represents they have the authority to bind Customer to this Agreement. If the individual does not have such authority, such individual and Customer may not use the Services and/or any Trial Products.
 

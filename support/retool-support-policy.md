@@ -1,7 +1,16 @@
 ---
 title: Retool Support Policy
 slug: ../retool-support-policy
+description: Defines the scope and terms of support services provided by Retool as part of the customer agreement.
+tags:
+  - enterprise
 ---
+
+:::warning
+
+Applicable to customers on the Enterprise plan.
+
+:::
 
 This Retool Support Policy ("**Policy**") is subject to the terms and conditions between Retool and Customer, as referenced in the applicable Order Form (the "**Agreement**"). Capitalized terms used but not otherwise defined in this Policy will have the definitions given to them in the Agreement.
 

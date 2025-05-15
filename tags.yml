@@ -1,0 +1,12 @@
+enterprise:
+  label: 'Enterprise'
+  description: 'Agreements and policies applicable to customers on the Enterprise plan.'
+free:
+  label: 'Free'
+  description: 'Agreements and policies applicable to customers on the Free plan.'
+team:
+  label: 'Team'
+  description: 'Agreements and policies applicable to customers on the Team plan.'
+business:
+  label: 'Business'
+  description: 'Agreements and policies applicable to customers on the Business plan.'

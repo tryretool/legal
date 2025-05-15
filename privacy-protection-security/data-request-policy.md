@@ -1,7 +1,19 @@
 ---
 title: Data Request Policy
 slug: ../data-request-policy
+description: Retool's procedures for handling user and government requests for data disclosure or deletion outside normal service operations.
+tags:
+  - free
+  - team
+  - business
+  - enterprise
 ---
+
+:::warning
+
+Applicable to all customers.
+
+:::
 
 Not unlike other technology companies, Retool receives requests from users and government agencies to disclose or delete data other than in the ordinary operation and provision of the Services. This Data Request Policy addresses those issues and outlines Retool's policies and procedures for responding to such requests for Customer Data. Any capitalized terms used in this Data Request Policy that are not defined will have the meaning set forth in the [Customer Terms of Service](https://docs.retool.com/legal/customer-terms-of-service). In the event of any inconsistency between the provisions of this Data Request Policy and the Customer Terms of Service, the provisions of the Customer Terms of Service will control.
 

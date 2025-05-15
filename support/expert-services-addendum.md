@@ -1,12 +1,24 @@
 ---
 title: Expert Services Addendum
 slug: ../exptert-services-addendum
+description: Terms for Retool's delivery of Expert Services, supplementing the main customer agreement.
+tags:
+  - free
+  - team
+  - business
+  - enterprise
 ---
 
-This Expert Services Addendum (this **"Addendum"**) governs Retool's provision of any Expert Services (as defined
-below) under an Order Form. This Addendum is incorporated into and made subject to the terms and conditions
-between Retool and Customer that govern Customer's use of the Services (the **"Agreement"**). Capitalized terms
-used but not otherwise defined in this Addendum will have the meanings given to them in the Agreement.
+:::warning
+
+Applicable to all customers.
+
+:::
+
+  This Expert Services Addendum (this **"Addendum"**) governs Retool's provision of any Expert Services (as defined
+  below) under an Order Form. This Addendum is incorporated into and made subject to the terms and conditions
+  between Retool and Customer that govern Customer's use of the Services (the **"Agreement"**). Capitalized terms
+  used but not otherwise defined in this Addendum will have the meanings given to them in the Agreement.
 
 ## 1. Expert Services
 
