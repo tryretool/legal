@@ -1,11 +1,18 @@
 ---
 title: Customer-Specific Supplement
-slug: ../customer-specific-supplement
+slug: /customer-specific-supplement
+sidebar_position: 4
 tags:
   - free
   - team
   - business
 ---
+
+:::note
+
+Applicable to customers on the Free, Team, or Business plan.
+
+:::
 
 The terms of the Customer-Specific Supplement ("Customer-Specific Supplement") below supplement and amend Customer's Contract (as defined in our [Customer Terms of Service](https://docs.retool.com/legal/customer-terms-of-service)) if Customer falls into the corresponding category of Customer. If there is any conflict between the Customer-Specific Supplement and the Contract, the applicable terms in the Customer-Specific Supplement will prevail. Nothing in this Customer-Specific Supplement makes us a government contractor for any federal, state, local, or foreign government.
 

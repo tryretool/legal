@@ -1,12 +1,19 @@
 ---
 title: Data Processing Addendum
-slug: ../dpa
+slug: /dpa
+sidebar_position: 1
 tags:
   - free
   - team
   - business
   - enterprise
 ---
+
+:::note
+
+Applicable to customers on any plan.
+
+:::
 
 This Data Processing Addendum ("DPA") is entered into between Retool Inc., a Delaware corporation with offices at 1550 Bryant Street, San Francisco, CA 94103 on behalf and as agent for its Affiliates (as defined below) ("Retool") and the Customer identified in the relevant Order Form ("Customer") (each a "Party" and together the "Parties"). This DPA is supplemental to, and forms part of, the [Customer Terms of Service](https://docs.retool.com/legal/customer-terms-of-service) or other written agreement between Retool and Customer (in either case, the "Agreement"). This DPA has been pre-signed on behalf of Retool and becomes legally binding upon receipt by Retool of the validly completed DPA (the "DPA Effective Date").
 

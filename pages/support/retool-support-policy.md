@@ -1,12 +1,13 @@
 ---
 title: Retool Support Policy
-slug: ../retool-support-policy
+slug: /retool-support-policy
+sidebar_position: 2
 description: Defines the scope and terms of support services provided by Retool as part of the customer agreement.
 tags:
   - enterprise
 ---
 
-:::warning
+:::note
 
 Applicable to customers on the Enterprise plan.
 

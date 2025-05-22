@@ -1,5 +1,0 @@
----
-title: Intellectual Property
----
-
-<DocCardList />

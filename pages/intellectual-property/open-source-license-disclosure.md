@@ -1,6 +1,7 @@
 ---
-title: "Open Source License Disclosure"
-slug: ../open-source-license-disclosure
+title: Open Source License Disclosure
+slug: /open-source-license-disclosure
+sidebar_position: 2
 tags:
   - free
   - team

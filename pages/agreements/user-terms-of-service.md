@@ -1,11 +1,18 @@
 ---
 title: User Terms of Service
-slug: ../user-terms-of-service
+slug: /user-terms-of-service
+sidebar_position: 3
 tags:
   - free
   - team
   - business
 ---
+
+:::note
+
+Applicable to customers on the Free, Team, or Business plan.
+
+:::
 
 These User Terms of Service (the "User Terms") govern your access and use of our developer tools and platform (the "Service"). Please read them carefully. Even though you are signing onto an organization's account, these User Terms apply to you as a user of the Services.
 

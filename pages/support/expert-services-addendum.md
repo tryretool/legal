@@ -1,6 +1,7 @@
 ---
 title: Expert Services Addendum
-slug: ../exptert-services-addendum
+slug: /exptert-services-addendum
+sidebar_position: 1
 description: Terms for Retool's delivery of Expert Services, supplementing the main customer agreement.
 tags:
   - free
@@ -9,9 +10,9 @@ tags:
   - enterprise
 ---
 
-:::warning
+:::note
 
-Applicable to all customers.
+Applicable to customers on any plan.
 
 :::
 
