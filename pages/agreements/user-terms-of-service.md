@@ -102,6 +102,9 @@ The User Terms, including any terms incorporated by reference into the User Term
 
 Please also feel free to contact us if you have any questions about Retool's User Terms of Service. You may contact us at support@retool.com or at our mailing address below:
 
+```
 Retool, Inc.
 1550 Bryant St.
-San Francisco, CA 94103
+San Francisco
+CA 94103
+```

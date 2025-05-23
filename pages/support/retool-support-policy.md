@@ -2,7 +2,6 @@
 title: Retool Support Policy
 slug: /retool-support-policy
 sidebar_position: 2
-description: Defines the scope and terms of support services provided by Retool as part of the customer agreement.
 tags:
   - enterprise
 ---
@@ -65,16 +64,17 @@ Priority level descriptions, along with target response times corresponding to C
 
 Resolution times are dependent on the nature and complexity of the issue raised by Customer. Customer's active engagement and assistance may be required to support resolution in a timely manner.
 
-| Priority Level\*\* and Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Target Response Times\* for Enterprise Support | Target Response Times\* for Premium Support |
+| Priority Level[^1] and Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Target Response Times[^2] for Enterprise Support | Target Response Times[^2] for Premium Support |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: |
 | **P0** \- An emergency condition which makes the continued use of any production use cases depending on the Services impossible or significantly impaired. The condition requires an immediate solution that is not already available to Customer. <br /><br />Example Issues: <br /> <ul><li>All Authorized Users are locked out of the primary workspace of Retool</li><li>An important production Workflow is suddenly malfunctioning</li></ul>                                                                                                   |            2 global business hours             |                   1 hour                    |
 | **P1 \-** Any condition which makes configuration of any one or more functions of the Services impossible and which Customer cannot reasonably circumvent or avoid on a temporary basis without the expenditure of significant time or effort. <br /><br />Example Issues: <br /> <ul><li>Resource credentials on development instances of Retool are suddenly unusable</li><li>Part of the Retool editor UI is crashing</li></ul>                                                                         |                 1 business day                 |          4  global business hours           |
 | **P2 \-** Limited problem conditions which can be reasonably circumvented on a temporary basis without significant expenditure of time or effort, or unclear configuration blockers needing troubleshooting to identify potential product fault. <br /><br />Example Issues: <br /> <ul><li>A bug report of odd drag & drop behavior inside of the editor in inconsistent scenarios</li><li>A newly configured query behaves differently when run from Retool than directly against the database</li></ul> |                2 business days                 |               1 business day                |
 | **P3 \-** A minor problem condition or Documentation error which Customer can easily circumvent or avoid. Suggestions for new Service features or enhancements are also classified as Priority Level 3\.  <br /><br />Example Issues: <br /> <ul><li>Requests for documentation or examples of how to configure a Retool feature</li><li>All other non-product inquiries</li></ul>                                                                                                                         |                4 business days                 |               2 business days               |
 
-\*  "Target Response Time" means the time between Retool's receipt of any Customer message within a Support Ticket, including the initial submission, and Retool's next response via one of its personnel.
 
-\*\*  Customer will have the ability to designate the priority level of its Support Tickets if submitted via the Retool Help Portal. Retool may reassign the priority level, provided that such reassignment follows criteria set forth in the table above.
+[^1]: Customer will have the ability to designate the priority level of its Support Tickets if submitted via the Retool Help Portal. Retool may reassign the priority level, provided that such reassignment follows criteria set forth in the table above.
+
+[^2]: "Target Response Time" means the time between Retool's receipt of any Customer message within a Support Ticket, including the initial submission, and Retool's next response via one of its personnel.
 
 ## Customer Responsibilities
 
@@ -91,3 +91,5 @@ In response to support requests raised by Customer in accordance with this Polic
 ## Operational Changes
 
 Retool may modify this Support Policy from time to time to reflect new features or changing operational practices, but the modifications may not be retroactive or materially decrease Retool's overall obligations during the applicable Order Form term.
+
+---

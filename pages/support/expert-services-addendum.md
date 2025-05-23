@@ -2,7 +2,6 @@
 title: Expert Services Addendum
 slug: /exptert-services-addendum
 sidebar_position: 1
-description: Terms for Retool's delivery of Expert Services, supplementing the main customer agreement.
 tags:
   - free
   - team

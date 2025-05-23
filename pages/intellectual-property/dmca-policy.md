@@ -28,11 +28,18 @@ Our designated copyright agent to receive such claims can be reached as follows:
 
 By mail:
 
+```
 Copyright Agent
 c/o Retool Inc.
 1550 Bryant St.,
 San Francisco, CA 94013
-By email: legal@retool.com
+```
+
+By email:
+
+```
+legal@retool.com
+```
 
 We may, in appropriate circumstances, disable or terminate the accounts of users who may be repeat infringers.
 

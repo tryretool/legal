@@ -194,11 +194,14 @@ If you would like to submit a data subject rights request, please email [dpo@ret
 
 If you have any other questions, comments, or concerns about this privacy policy, please contact us using the following contact information:
 
-- Retool Inc.
-- 1550 Bryant Street
-- San Francisco
-- CA 94103
-- [dpo@retool.com](mailto:dpo@retool.com)
+```
+Retool Inc.
+1550 Bryant Street
+San Francisco
+CA 94103
+```
+
+[dpo@retool.com](mailto:dpo@retool.com)
 
 ## Changes To This Privacy Policy
 
