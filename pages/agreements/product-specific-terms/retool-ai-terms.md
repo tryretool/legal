@@ -1,5 +1,5 @@
 ---
-title: Retool AI Terms of Service
+title: Retool AI Terms
 sidebar_position: 1
 slug: /retool-ai-terms
 ---
