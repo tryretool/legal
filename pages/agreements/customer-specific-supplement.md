@@ -1,12 +1,24 @@
 ---
 title: Customer-Specific Supplement
+slug: /customer-specific-supplement
+sidebar_position: 4
+tags:
+  - free
+  - team
+  - business
 ---
 
-The terms of the Customer-Specific Supplement ("Customer-Specific Supplement") below supplement and amend Customer's Contract (as defined in our [Customer Terms of Service](https://docs.retool.com/legal/customer-terms-of-service)) if Customer falls into the corresponding category of Customer. If there is any conflict between the Customer-Specific Supplement and the Contract, the applicable terms in the Customer-Specific Supplement will prevail. Nothing in this Customer-Specific Supplement makes us a government contractor for any federal, state, local, or foreign government. 
+:::note
+
+Applicable to customers on the Free, Team, or Business plan.
+
+:::
+
+The terms of the Customer-Specific Supplement ("Customer-Specific Supplement") below supplement and amend Customer's Contract (as defined in our [Customer Terms of Service](https://docs.retool.com/legal/customer-terms-of-service)) if Customer falls into the corresponding category of Customer. If there is any conflict between the Customer-Specific Supplement and the Contract, the applicable terms in the Customer-Specific Supplement will prevail. Nothing in this Customer-Specific Supplement makes us a government contractor for any federal, state, local, or foreign government.
 
 ## I. U.S. Government Customers
 
-If Customer is a U.S. government or U.S. public entity (or use of the Services is for the U.S. Government), the terms of the Customer-Specific Supplement in this Section I apply. 
+If Customer is a U.S. government or U.S. public entity (or use of the Services is for the U.S. Government), the terms of the Customer-Specific Supplement in this Section I apply.
 
 1. **Use By or For the U.S. Government.** The Services are a "commercial item," as defined at 48 C.F.R. §2.101, and constitute "commercial computer software" and "commercial computer software documentation," as used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202 to §227.7204. This commercial computer software and related documentation is provided to end users for use, by and on behalf of the U.S. Government, with only those rights as are granted to all other end users pursuant to the terms and conditions herein.
 1. **Indemnification, Auto-Renewal, Venue, Legal Fees:** The sections in the Contract titled "Governing Law," "Auto-renewal," "Venue; Waiver of Jury Trial; Fees," and "Customer's Indemnification of Us" are hereby waived to the extent they are inconsistent with federal law.
@@ -14,7 +26,7 @@ If Customer is a U.S. government or U.S. public entity (or use of the Services i
 
 ## II. State or Local Government Customers
 
-This Section II applies to Customer if Customer is a state or local government, but only to the extent the Services are being used in an Authorized User's official capacity as a state or local government official. The sections in the Contract titled "Governing Law," "Venue; Waiver of Jury Trial; Fees," and "Customer's Indemnification of Us" will not apply to Customer only to the extent Customer's jurisdiction's laws prohibit Customer from accepting the requirements in those sections. 
+This Section II applies to Customer if Customer is a state or local government, but only to the extent the Services are being used in an Authorized User's official capacity as a state or local government official. The sections in the Contract titled "Governing Law," "Venue; Waiver of Jury Trial; Fees," and "Customer's Indemnification of Us" will not apply to Customer only to the extent Customer's jurisdiction's laws prohibit Customer from accepting the requirements in those sections.
 
 ## III. Healthcare Customers
 

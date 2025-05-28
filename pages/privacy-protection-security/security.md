@@ -1,6 +1,19 @@
 ---
-title: Security practices
+title: Security Practices
+slug: /security-practices
+sidebar_position: 3
+tags:
+  - free
+  - team
+  - business
+  - enterprise
 ---
+
+:::note
+
+Applicable to customers on any plan.
+
+:::
 
 We take the security of your data very seriously at Retool. If you have additional questions regarding security, we are happy to answer them. Please write to [security@retool.com](mailto:security@retool.com) and we will respond as quickly as we can or check our self serve [Trust Center](https://trust.retool.com/) for more security information. This Security Practices page describes the administrative, technical and physical controls applicable to Retool.
 
@@ -20,9 +33,15 @@ Whether using Retool's cloud-based or self-hosted services, you and your users m
 
 ### Storage of Customer Data
 
-When you connect a Custom App to a database provided by Retool, Retool stores Customer Data using infrastructure provided by AWS. When you instead connect a Custom App to your own database or data resource or that of a third party, Retool does not store Customer Data but rather proxies requests to that database and applies the credentials server-side. The Retool services are architected this way because having the end-user's browser connect directly to the database would require you to provision every user individually, rather than just the Retool server, which would potentially expose credentials.
+### Retool Cloud Services
 
-Note that if you enable [query or workflow caching](https://docs.retool.com/docs/caching-in-retool), Customer Data is temporarily cached by Retool for the specified cache duration. You can invalidate a query's cache—or disable query and workflow caching entirely—at any time.
+When you use the Retool Cloud Services, Retool’s storage of Customer Data primarily depends on whether you connect a Custom App to a database provided by Retool, in which case Retool will store Customer Data using third-party infrastructure.When you instead connect a Custom App to your own database or data resource or that of a third party, Retool does not store Customer Data but rather proxies requests to that database and applies the credentials server-side. The Retool services are architected this way because having the end-user's browser connect directly to the database would require you to provision every user individually, rather than just the Retool server, which would potentially expose credentials.
+
+ Other features, functionality, and products of the Services may also require Retool to store Customer Data. For example, if you enable [query or workflow caching](https://docs.retool.com/docs/caching-in-retool), Customer Data is temporarily cached by Retool for the specified cache duration. You can invalidate a query's cache—or disable query and workflow caching entirely—at any time.
+
+When you elect to deploy self-hosted Workflows with a Retool-managed Temporal cluster, only encrypted internal Workflow ids and Workflow block names are stored in Temporal Technologies’ Cloud offering; no other Customer Data, code or query contents are sent to Temporal Cloud. All Customer Data is encrypted with your private encryption key prior to leaving your own VPC or VPN. The encryption key is defined within your infrastructure and is never sent to Retool or Temporal Technologies. Customer Data is stored in Temporal Cloud for 14 days by default, this retention period is configurable by submitting a request to Retool.
+
+### Self-Hosted Services
 
 When you elect to deploy self-hosted Workflows with a Retool-managed Temporal cluster, only encrypted internal Workflow ids and Workflow block names are stored in Temporal Technologies’ Cloud offering; no other Customer Data, code or query contents are sent to Temporal Cloud. All Customer Data is encrypted with your private encryption key prior to leaving your own VPC or VPN. The encryption key is defined within your infrastructure and is never sent to Retool or Temporal Technologies. Customer Data is stored in Temporal Cloud for 14 days by default, this retention period is configurable by submitting a request to Retool.
 

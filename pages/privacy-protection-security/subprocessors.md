@@ -1,7 +1,19 @@
 ---
 title: Subprocessors
+slug: /subprocessors
+sidebar_position: 2
+tags:
+  - free
+  - team
+  - business
+  - enterprise
 ---
 
+:::note
+
+Applicable to customers on any plan.
+
+:::
 
 To support delivery of our Services, Retool, Inc. (or one of its Affiliates listed below), may engage and use data processors with access to certain Customer Data (each, a "Subprocessor"). This page provides important information about the identity, location and role of each Subprocessor. Terms used on this page but not defined have the meaning set forth in the [Customer Terms of Service](https://docs.retool.com/legal/customer-terms-of-service) (or if applicable, the superseding written agreement between Customer and Retool or a Retool affiliate(s)) (the "Agreement").
 
@@ -14,22 +26,31 @@ Retool currently uses third party Subprocessors to provide infrastructure servic
 Retool may use the following Subprocessors to host Customer Data or provide other infrastructure that helps with delivery of our Services:
 
 | Entity Name                 | Relevant Retool Services               | Purpose of Processing                                                                                    | Location of Subprocessors |
-| --------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------- |
+| :-------------------------- | :------------------------------------- | :------------------------------------------------------------------------------------------------------- | :------------------------ |
 | Amazon Web Services, Inc.   | Cloud Offerings                        | Third-party hosting provider                                                                             | United States             |
-| Amazon Web Services, Inc.   | Workflows  <br />(Retool Cloud)        | Third-party hosting provider for queries and workflow caching                                            | United States             |
+| Amazon Web Services, Inc.   | Workflows (Retool Cloud)               | Third-party hosting provider for queries and workflow caching                                            | United States             |
 | Temporal Technologies, Inc. | Workflows (Self-Hosted Offerings)      | Third-party hosting provider for workflow orchestration if electing to use Retool-managed Temporal Cloud | United States             |
 | Temporal Technologies, Inc. | Workflows (Retool Cloud)               | Third-party hosting provider for Workflow orchestration                                                  | United States             |
-| OpenAI, Inc.                | Optional AI Features                   | Third party artificial intelligence large language model and engine                                      | United States             |
 | Neon, Inc.                  | Retool Database (Self-Serve Customers) | Third-party hosting provider                                                                             | United States             |
+
+## Product-Specific Subprocessors
+
+| Entity Name                          | Retool Product     | Purpose of Processing                                      | Location      |
+| :----------------------------------- | :----------------- | :--------------------------------------------------------- | :------------ |
+| OpenAI, LLC                          | Retool AI (Agents) | Third-Party Model Provider                                 | United States |
+| Anthropic, PBC                       | Retool AI (Agents) | Third-Party Model Provider                                 | United States |
+| Baseten Labs, Inc.                   | Retool AI (Agents) | Third-Party infrastructure provider for open-source models | United States |
+| AlphaAI Technologies Inc. dba Tavily | Retool AI (Agents) | Third-Party web search provider for LLMs                   | United States |
+| ClickHouse, Inc.                     | Retool AI (Agents) | Third-Party data store for managing Agent logs             | United States |
 
 ## Other Subprocessors
 
 Retool may use the following Subprocessors to perform other Service functions:
 
 | Entity Name               | Purpose of Processing                                  | Location of Subprocessors |
-| ------------------------- | ------------------------------------------------------ | ------------------------- |
+| :------------------------ | :----------------------------------------------------- | :------------------------ |
 | Intercom, Inc..           | Third-party service provider of customer support tools | United States             |
-| Salesforce, Inc. | Third-party service provider of customer support tools | United States |
+| Salesforce, Inc.          | Third-party service provider of customer support tools | United States             |
 | Mailgun Technologies Inc. | Third-party service provider for sending Retool Email  | United States             |
 
 ## Retool Affiliates
@@ -40,4 +61,4 @@ Depending on the geographic location of a Customer or their Authorized Users, an
 
 As our business grows and evolves, the Subprocessors we engage may also change. We will endeavor to provide the owner of Customer's account with notice of any new Subprocessors to the extent required under the Agreement, along with posting such updates here. Please check back frequently for updates.
 
-Current customers may sign up to receive notification of new subprocessors by e-mailing [subprocessor.notification.requests@retool.com](mailto:subprocessor.notification.requests@retool.com).
+Current customers may sign up to receive notification of new subprocessors by e-mailing subprocessor.notification.requests@retool.com.

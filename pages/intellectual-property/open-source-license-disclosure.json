@@ -1,0 +1,6618 @@
+[
+  {
+    "license": [
+      "AFL-2.1",
+      "BSD-2-Clause"
+    ],
+    "software": "json-schema@0.2.3"
+  },
+  {
+    "license": [
+      "AFL-2.1",
+      "BSD-3-Clause"
+    ],
+    "software": "json-schema@0.4.0"
+  },
+  {
+    "license": [
+      "Apache-2.0",
+      "BSD-2-Clause"
+    ],
+    "software": "python-dateutil@2.8.2"
+  },
+  {
+    "license": [
+      "Apache-2.0",
+      "MIT"
+    ],
+    "software": "pause-stream@0.0.11"
+  },
+  {
+    "license": [
+      "Apache-2.0",
+      "MIT"
+    ],
+    "software": "vis-data@7.1.4"
+  },
+  {
+    "license": [
+      "Apache-2.0",
+      "MIT"
+    ],
+    "software": "vis-network@9.1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0",
+      "MIT"
+    ],
+    "software": "vis-timeline@7.7.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause",
+      "BSD-3-Clause",
+      "MPL-2.0"
+    ],
+    "software": "domain_name@0.5.20180417"
+  },
+  {
+    "license": [
+      "BSD-2-Clause",
+      "BSD-3-Clause",
+      "MPL-2.0"
+    ],
+    "software": "domain_name@0.5.20190701"
+  },
+  {
+    "license": [
+      "BSD-2-Clause",
+      "MIT",
+      "Apache-2.0"
+    ],
+    "software": "rc@1.2.8"
+  },
+  {
+    "license": [
+      "BSD-2-Clause",
+      "MIT"
+    ],
+    "software": "pikaday@1.5.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause",
+      "GPL-2.0"
+    ],
+    "software": "node-forge@0.10.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause",
+      "GPL-2.0"
+    ],
+    "software": "node-forge@0.7.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause",
+      "GPL-2.0"
+    ],
+    "software": "node-forge@0.7.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause",
+      "GPL-2.0"
+    ],
+    "software": "node-forge@0.8.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause",
+      "GPL-2.0"
+    ],
+    "software": "node-forge@0.9.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause",
+      "GPL-2.0"
+    ],
+    "software": "node-forge@1.3.1"
+  },
+  {
+    "license": [
+      "MIT AND Zlib"
+    ],
+    "software": "pako@1.0.10"
+  },
+  {
+    "license": [
+      "MIT AND Zlib"
+    ],
+    "software": "pako@1.0.11"
+  },
+  {
+    "license": [
+      "MIT AND Zlib"
+    ],
+    "software": "pako@1.0.6"
+  },
+  {
+    "license": [
+      "MIT AND Zlib"
+    ],
+    "software": "pako@1.0.7"
+  },
+  {
+    "license": [
+      "MIT AND Zlib"
+    ],
+    "software": "pako@2.0.4"
+  },
+  {
+    "license": [
+      "MIT",
+      "Apache-2.0"
+    ],
+    "software": "atob@2.1.2"
+  },
+  {
+    "license": [
+      "MIT",
+      "Apache-2.0"
+    ],
+    "software": "btoa@1.2.1"
+  },
+  {
+    "license": [
+      "MIT",
+      "Apache-2.0"
+    ],
+    "software": "walk@2.3.15"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.10.0"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.11.0"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.13.1"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.18.1"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.20.2"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.21.3"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.3.1"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.5.2"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.6.0"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.7.1"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@0.8.1"
+  },
+  {
+    "license": [
+      "MIT",
+      "CC0-1.0"
+    ],
+    "software": "type-fest@2.8.0"
+  },
+  {
+    "license": [
+      "MIT",
+      "WTFPL"
+    ],
+    "software": "expand-template@2.0.3"
+  },
+  {
+    "license": [
+      "MPL-2.0",
+      "Apache-2.0"
+    ],
+    "software": "dompurify@2.4.0"
+  },
+  {
+    "license": [
+      "Unlicense",
+      "Apache-2.0"
+    ],
+    "software": "zxing/text-encoding@0.9.0"
+  },
+  {
+    "license": [
+      "WTFPL",
+      "MIT"
+    ],
+    "software": "opener@1.5.2"
+  },
+  {
+    "license": [
+      "WTFPL",
+      "MIT"
+    ],
+    "software": "path-is-inside@1.0.2"
+  },
+  {
+    "license": [
+      "0BSD"
+    ],
+    "software": "tslib@1.14.1"
+  },
+  {
+    "license": [
+      "0BSD"
+    ],
+    "software": "tslib@2.0.3"
+  },
+  {
+    "license": [
+      "0BSD"
+    ],
+    "software": "tslib@2.1.0"
+  },
+  {
+    "license": [
+      "0BSD"
+    ],
+    "software": "tslib@2.2.0"
+  },
+  {
+    "license": [
+      "0BSD"
+    ],
+    "software": "tslib@2.3.0"
+  },
+  {
+    "license": [
+      "0BSD"
+    ],
+    "software": "tslib@2.3.1"
+  },
+  {
+    "license": [
+      "0BSD"
+    ],
+    "software": "tslib@2.4.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "acorn-node@1.6.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "acorn-node@1.8.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "adal-node@0.1.28"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "adal-node@0.2.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "addressable@2.8.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "adler-32@1.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "adler-32@1.3.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@ampproject/remapping@2.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@ampproject/toolbox-core@2.8.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@ampproject/toolbox-optimizer@2.6.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@ampproject/toolbox-runtime-version@2.8.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@ampproject/toolbox-script-csp@2.8.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@ampproject/toolbox-validator-rules@2.8.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "ansi-html@0.0.7"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aria-query@3.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aria-query@4.0.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aria-query@4.2.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "ascli@1.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/crc32@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/crc32c@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/ie11-detection@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/ie11-detection@2.0.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/sha1-browser@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/sha256-browser@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/sha256-js@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/sha256-js@2.0.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/supports-web-crypto@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/supports-web-crypto@2.0.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/util@2.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-crypto/util@2.0.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aws-sdk@2.1142.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aws-sdk@2.1236.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aws-sdk@2.336.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aws-sdk@2.426.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aws-sdk@2.439.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aws-sdk@2.697.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/abort-controller@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/abort-controller@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/chunked-blob-reader@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/chunked-blob-reader-native@3.58.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/client-s3@3.99.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/client-sns@3.192.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/client-sso@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/client-sso@3.99.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/client-sts@3.192.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/client-sts@3.99.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/config-resolver@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/config-resolver@3.80.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-env@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-env@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-imds@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-imds@3.81.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-ini@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-ini@3.99.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-node@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-node@3.99.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-process@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-process@3.80.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-sso@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-sso@3.99.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-web-identity@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/credential-provider-web-identity@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/eventstream-marshaller@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/eventstream-serde-browser@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/eventstream-serde-config-resolver@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/eventstream-serde-node@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/eventstream-serde-universal@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/fetch-http-handler@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/fetch-http-handler@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/hash-blob-browser@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/hash-node@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/hash-node@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/hash-stream-node@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/invalid-dependency@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/invalid-dependency@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/is-array-buffer@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/is-array-buffer@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/md5-js@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-bucket-endpoint@3.80.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-content-length@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-content-length@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-expect-continue@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-flexible-checksums@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-header-default@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-host-header@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-host-header@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-location-constraint@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-logger@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-logger@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-recursion-detection@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-retry@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-retry@3.80.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-sdk-s3@3.86.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-sdk-sts@3.192.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-sdk-sts@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-serde@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-serde@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-signing@3.192.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-signing@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-ssec@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-stack@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-stack@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-user-agent@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/middleware-user-agent@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/node-config-provider@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/node-config-provider@3.80.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/node-http-handler@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/node-http-handler@3.94.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/property-provider@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/property-provider@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/protocol-http@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/protocol-http@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/querystring-builder@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/querystring-builder@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/querystring-parser@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/querystring-parser@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/service-error-classification@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/service-error-classification@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/shared-ini-file-loader@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/shared-ini-file-loader@3.80.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/signature-v4@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/signature-v4@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/signature-v4-multi-region@3.88.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/smithy-client@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/smithy-client@3.99.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/types@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/types@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/url-parser@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/url-parser@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-arn-parser@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-base64-browser@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-base64-browser@3.58.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-base64-node@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-base64-node@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-body-length-browser@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-body-length-browser@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-body-length-node@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-body-length-node@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-buffer-from@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-buffer-from@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-config-provider@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-config-provider@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-defaults-mode-browser@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-defaults-mode-browser@3.99.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-defaults-mode-node@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-defaults-mode-node@3.99.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-hex-encoding@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-hex-encoding@3.58.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-locate-window@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-locate-window@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-middleware@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-middleware@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-stream-browser@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-stream-node@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-uri-escape@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-uri-escape@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-user-agent-browser@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-user-agent-browser@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-user-agent-node@3.190.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-user-agent-node@3.80.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-utf8-browser@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-utf8-browser@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-utf8-node@3.188.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-utf8-node@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/util-waiter@3.78.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@aws-sdk/xml-builder@3.55.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aws-sign2@0.6.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "aws-sign2@0.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "axios-retry@3.1.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "axios-retry@3.1.9"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "axios-retry@3.3.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "axobject-query@2.0.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "axobject-query@2.1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "axobject-query@2.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "bcrypt@3.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "before-after-hook@1.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "before-after-hook@1.4.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "before-after-hook@2.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "before-after-hook@2.2.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "before-after-hook@2.2.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "blob-util@2.0.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "boto3@1.20.11"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "botocore@1.23.11"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "browser-request@0.3.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "bser@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "bser@2.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "bser@2.1.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "bson@1.1.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "bson@1.1.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "btoa@1.1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "bytebuffer@5.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "caseless@0.12.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "cassandra-driver@4.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "cfb@1.2.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "chrome-launcher@0.14.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "cluster-key-slot@1.0.12"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "cluster-key-slot@1.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@cnakazawa/watch@1.0.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@cnakazawa/watch@1.0.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "codepage@1.15.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "combokeys@3.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.fasterxml.jackson.core:jackson-core@2.8.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.google.api-client:google-api-client@1.25.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.google.apis:google-api-services-cloudsearch@v1-rev18-1.25.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.google.enterprise.cloudsearch:google-cloudsearch-connector-sdk@v1-0.0.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.google.enterprise.cloudsearch:google-cloudsearch-indexing-connector-sdk@v1-0.0.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.google.errorprone:error_prone_annotations@2.0.18"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.google.guava:guava@23.5-jre"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.google.http-client:google-http-client@1.25.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.google.http-client:google-http-client-jackson2@1.25.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.google.j2objc:j2objc-annotations@1.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "com.google.oauth-client:google-oauth-client@1.25.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "commons-codec:commons-codec@1.10"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "commons-logging:commons-logging@1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "crc-32@1.2.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "csp_evaluator@1.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@cypress/request@2.88.10"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "dash-ast@1.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@datadog/browser-core@2.18.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@datadog/browser-rum@2.18.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@datadog/browser-rum-core@2.18.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "DatadogSDK@1.12.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "DatadogSDKCrashReporting@1.12.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "dbt-bigquery@1.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "dbt-core@1.0.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "dbt-extractor@0.4.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "denque@1.3.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "denque@1.4.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "denque@1.5.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "denque@2.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "detect-libc@1.0.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "detect-libc@2.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "diff-cover@6.5.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "doctrine@2.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "doctrine@3.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "draft-js-code@0.3.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "draft-js-prism@1.0.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "draft-js-prism@1.0.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "ecdsa-sig-formatter@1.0.10"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "ecdsa-sig-formatter@1.0.11"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "ejs@2.6.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "ejs@2.7.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "ejs@3.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "ejs@3.1.8"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "elasticsearch@15.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "elasticsearch@7.16.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "eslint-visitor-keys@1.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "eslint-visitor-keys@1.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "eslint-visitor-keys@1.3.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "eslint-visitor-keys@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "eslint-visitor-keys@2.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "exit-on-epipe@1.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "fast-diff@1.1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "fastpriorityqueue@0.7.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "fast-text-encoding@1.0.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "fast-text-encoding@1.0.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "faye@1.4.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "faye-websocket@0.11.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "faye-websocket@0.11.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "fb-watchman@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "fb-watchman@2.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "filelist@1.0.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "find-java-home@0.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "find-java-home@1.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "find-yarn-workspace-root@1.2.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "firebase-admin@9.12.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "firebase-admin@9.3.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "firebase-admin@9.4.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/app-types@0.6.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/app-types@0.6.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/app-types@0.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/auth-interop-types@0.1.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/auth-interop-types@0.1.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/component@0.1.19"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/component@0.5.13"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/database@0.12.8"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/database@0.6.13"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/database-compat@0.1.8"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/database-types@0.5.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/database-types@0.7.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/database-types@0.9.7"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/logger@0.2.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/logger@0.3.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/util@0.3.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@firebase/util@1.5.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "Flipper-Folly@2.6.9"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "foreachasync@3.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "forever-agent@0.6.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "frac@1.1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "fuse.js@6.6.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "gaxios@1.8.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "gaxios@3.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "gaxios@4.3.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "gcp-metadata@4.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "gcp-metadata@4.3.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "geoip-country@4.1.27"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "get-assigned-identifiers@1.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-api-core@1.31.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-api-core@2.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-api-core@2.10.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-api-core@2.7.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "googleapis@61.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "googleapis-common@4.4.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "googleapis-common@4.4.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth@1.34.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth@2.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth@2.13.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth@2.6.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth-library@0.10.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth-library@0.12.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth-library@1.6.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth-library@6.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth-library@6.1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth-library@6.1.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth-library@7.14.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-auth-oauthlib@0.4.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/bigquery@0.11.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/bigquery@1.3.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-cloud-bigquery@2.23.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-cloud-bigquery@2.26.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-cloud-bigquery@2.34.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/bigquery@5.12.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/bigquery@5.3.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-cloud-bigquery-datatransfer@3.7.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-cloud-bigquery-storage@2.8.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/common@0.13.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/common@0.15.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/common@0.17.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/common@3.10.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/common@3.4.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-cloud-core@1.7.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-cloud-core@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-cloud-core@2.3.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/datastore@6.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/datastore@6.6.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/firestore@4.15.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/paginator@3.0.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/paginator@3.0.7"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/projectify@2.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/projectify@2.1.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/promisify@2.0.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/promisify@2.0.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/storage@1.5.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/storage@5.1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@google-cloud/storage@5.20.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-crc32c@1.1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-crc32c@1.3.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-gax@2.30.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-gax@2.9.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-resumable-media@1.3.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-resumable-media@2.0.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "google-resumable-media@2.3.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "grpc@1.24.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/grpc-js@1.0.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/grpc-js@1.1.7"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/grpc-js@1.6.12"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/grpc-js@1.6.7"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/grpc-js@1.7.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "grpcio@1.44.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "grpcio-status@1.44.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/proto-loader@0.5.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/proto-loader@0.5.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/proto-loader@0.6.0-pre9"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/proto-loader@0.6.12"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/proto-loader@0.6.13"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@grpc/proto-loader@0.7.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "human-signals@1.1.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "human-signals@2.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@humanwhocodes/config-array@0.5.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "importlib-metadata@4.11.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "importlib-metadata@5.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@internationalized/date@3.0.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@internationalized/message@3.0.9"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@internationalized/number@3.1.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@internationalized/string@3.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "jake@10.8.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "jmespath@0.15.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "jmespath@0.16.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "jsbi@3.1.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "jsbi@3.2.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "jsoneditor@9.9.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "kew@0.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "less@2.7.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "less@4.1.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "lighthouse@8.6.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "lighthouse-logger@1.3.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "lighthouse-stack-packs@1.8.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "long@2.4.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "long@3.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "long@4.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "long@5.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "marky@1.2.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "mashumaro@2.9"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "minimal-snowplow-tracker@0.0.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "mongodb@3.4.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "mongodb-extended-json@1.10.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "mongodb-extended-json@1.11.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "msgpack@1.0.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "msgpack@1.2.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "msgpack@1.4.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "msnodesqlv8@2.0.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "native-url@0.2.6"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "native-url@0.3.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "newrelic@6.13.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "newrelic@7.5.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@newrelic/aws-sdk@2.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@newrelic/aws-sdk@3.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@newrelic/koa@4.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@newrelic/koa@5.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@newrelic/native-metrics@6.0.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@newrelic/superagent@3.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@newrelic/superagent@4.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "nuitka@0.6.17.7"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "oauth-sign@0.8.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "oauth-sign@0.9.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/api@1.2.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/api-metrics@0.26.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/context-zone@1.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/context-zone-peer-dep@1.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/core@1.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/core@1.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/exporter-otlp-http@0.26.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/propagator-b3@1.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/resources@1.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/resources@1.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/sdk-metrics-base@0.26.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/sdk-trace-base@1.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/sdk-trace-base@1.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/sdk-trace-web@1.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/semantic-conventions@1.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@opentelemetry/semantic-conventions@1.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "opentracing@0.14.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "opentracing@0.14.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "oracledb@5.0.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "org.apache.commons:commons-csv@1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "org.apache.httpcomponents:httpclient@4.5.5"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "org.apache.httpcomponents:httpcore@4.4.9"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "org.scala-lang:scala-library@2.13.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "parsedatetime@2.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "pdfjs-dist@2.1.266"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "phantomjs-prebuilt@2.1.16"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "preact-context@1.1.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "printj@1.1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "proto3-json-serializer@0.1.9"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "protobufjs@5.0.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "proto-plus@1.19.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "proto-plus@1.20.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "proto-plus@1.22.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "puppeteer@9.1.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "pynacl@1.4.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "react-aria@3.20.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/breadcrumbs@3.3.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/button@3.6.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/calendar@3.0.3"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/checkbox@3.6.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/combobox@3.4.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/datepicker@3.1.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/dialog@3.4.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/focus@3.9.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/grid@3.5.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/gridlist@3.1.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/i18n@3.6.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/interactions@3.12.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/label@3.4.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/link@3.3.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/listbox@3.7.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/live-announcer@3.1.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/menu@3.6.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/meter@3.3.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/numberfield@3.3.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/overlays@3.11.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/progress@3.3.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/radio@3.4.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/searchfield@3.4.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/select@3.8.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/selection@3.11.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/separator@3.2.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/slider@3.2.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/spinbutton@3.1.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/ssr@3.3.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/switch@3.2.4"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/table@3.5.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/tabs@3.3.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/textfield@3.7.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/toggle@3.4.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/tooltip@3.3.2"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/utils@3.14.0"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/virtualizer@3.5.1"
+  },
+  {
+    "license": [
+      "Apache-2.0"
+    ],
+    "software": "@react-aria/visually-hidden@3.5.0"
+  },
+  {
+    "license": [
+      "Artistic-2.0"
+    ],
+    "software": "text-unidecode@1.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "babel@2.9.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "browser-process-hrtime@0.1.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "browser-process-hrtime@1.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "byebug@10.0.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "byebug@11.1.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "cls-bluebird@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "colorama@0.4.4"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "colorama@0.4.5"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "com.facebook.react:react-native@+"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "configstore@3.1.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "configstore@3.1.5"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "configstore@5.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-select@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-select@2.0.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-select@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-select@4.1.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-select@4.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-what@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-what@2.1.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-what@2.1.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-what@3.2.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-what@3.4.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-what@5.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "css-what@6.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "damerau-levenshtein@1.0.4"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "damerau-levenshtein@1.0.6"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "damerau-levenshtein@1.0.7"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "default-gateway@2.7.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "default-gateway@4.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "doctrine@1.5.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domelementtype@1.1.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domelementtype@1.2.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domelementtype@1.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domelementtype@1.3.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domelementtype@2.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domelementtype@2.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domelementtype@2.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domhandler@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domhandler@2.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domhandler@2.4.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domhandler@3.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domhandler@3.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domhandler@4.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domhandler@4.3.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domhandler@5.0.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domutils@1.1.6"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domutils@1.5.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domutils@1.7.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domutils@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domutils@2.8.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "domutils@3.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "dotenv@10.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "dotenv@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "dotenv@4.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "dotenv@6.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "dotenv@7.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "dotenv@^8.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "dotenv@8.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "dotenv@8.6.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "dotenv-expand@4.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "dotenv-expand@5.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "entities@1.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "entities@1.1.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "entities@1.1.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "entities@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "entities@2.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "entities@3.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "entities@4.4.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "escodegen@1.11.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "escodegen@1.11.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "escodegen@1.14.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "escodegen@1.14.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "escodegen@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "escope@3.6.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "eslint-scope@3.7.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "eslint-scope@4.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "eslint-scope@4.0.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "eslint-scope@5.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "eslint-scope@5.1.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "espree@4.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "espree@6.1.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "espree@7.3.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "esprima@1.0.4"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "esprima@3.1.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "esprima@4.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "esrecurse@4.2.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "esrecurse@4.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "estraverse@4.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "estraverse@4.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "estraverse@5.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "estraverse@5.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "esutils@2.0.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "esutils@2.0.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "express-ws@5.0.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "extract-zip@1.6.6"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "extract-zip@1.6.7"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "extract-zip@1.7.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "extract-zip@2.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "Flipper-DoubleConversion@3.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "geojson-flatten@0.2.4"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "glob-to-regexp@0.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "glob-to-regexp@0.4.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "hdr-histogram-js@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "hoist-non-react-statics@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "http-cache-semantics@4.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "imgix-core-js@1.2.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "isodate@0.6.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "jinja2-simple-tags@?"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "kld-affine@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "kld-polynomial@0.1.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "kld-polynomial@0.1.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "lazy-object-proxy@1.7.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "logbook@1.5.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@mapbox/geojson-area@0.2.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@mapbox/hast-util-table-cell-style@0.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@mapbox/tiny-sdf@1.2.5"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@mapbox/unitbezier@0.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "mississippi@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "mississippi@3.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "nodeenv@1.6.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "node-eta@0.1.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "node-slack@0.0.7"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "normalize-package-data@2.4.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "normalize-package-data@2.5.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "normalize-package-data@3.0.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "nth-check@1.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "nth-check@1.0.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "nth-check@2.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "nth-check@2.1.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "numpy@1.21.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "numpy@1.21.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "oauthlib@3.1.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "oauthlib@3.2.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "pandas-gbq@0.15.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "parse-cache-control@1.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "progress-stream@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "prompt-toolkit@1.0.14"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "pyasn1@0.4.8"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "pyasn1-modules@0.2.8"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "pycparser@2.20"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "pycparser@2.21"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "pydata-google-auth@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "pygments@2.10.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "pygments@2.11.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "raven@2.6.4"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "React@0.64.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "React@0.68.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "regenerator-transform@0.10.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "regjsparser@0.1.5"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "regjsparser@0.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "regjsparser@0.6.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "regjsparser@0.6.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "regjsparser@0.6.7"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "regjsparser@0.6.9"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "regjsparser@0.7.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "regjsparser@0.8.4"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "rexml@3.2.5"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "scipy@1.7.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "semver@4.3.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "sequelize-fixtures@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "sharkdown@0.1.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "shimmer@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "shimmer@1.2.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "slugg@1.2.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "sntp@1.0.9"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "SocketRocket@0.6.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "stringify-object@3.3.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "svg-intersections@0.4.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "tblib@1.7.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "toarray@0.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "tween-functions@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@typescript-eslint/parser@2.19.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@typescript-eslint/parser@4.18.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@typescript-eslint/parser@4.33.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@typescript-eslint/typescript-estree@2.19.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@typescript-eslint/typescript-estree@3.10.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@typescript-eslint/typescript-estree@4.18.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@typescript-eslint/typescript-estree@4.33.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "uglify-es@3.3.9"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "uglify-js@3.4.9"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "unf@0.1.4"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "update-notifier@2.5.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "update-notifier@4.1.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "update-notifier@5.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "uri-js@4.2.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "uri-js@4.4.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "uri-js@4.4.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "url-template@2.0.8"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "warning@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "webidl-conversions@3.0.1"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "webidl-conversions@4.0.2"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "webidl-conversions@5.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "webidl-conversions@6.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "webidl-conversions@7.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "wgs84@0.0.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "winreg@1.2.4"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "wrapt@1.13.3"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "yarn@1.22.17"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "@yarnpkg/lockfile@1.1.0"
+  },
+  {
+    "license": [
+      "BSD-2-Clause"
+    ],
+    "software": "yurnalist@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "abab@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "abab@2.0.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "abab@2.0.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "abab@2.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "ace-builds@1.12.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "animated@0.2.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "asn1js@3.0.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "babel-plugin-istanbul@4.1.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "babel-plugin-istanbul@5.2.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "babel-plugin-istanbul@6.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "bcrypt-pbkdf@1.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "bcrypt-pbkdf@1.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "boom@2.10.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "boom@4.3.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "boom@5.2.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "boom@7.2.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "boom@7.3.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "buffer-equal-constant-time@1.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "charenc@0.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "click@8.0.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "click@8.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "click@8.1.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "com.google.code.findbugs:jsr305@1.3.9"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "crypt@0.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "cryptiles@2.0.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "cryptiles@3.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "cryptiles@4.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "cryptiles@4.1.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "csv-parse@1.3.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "csv-stringify@1.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3@3.5.17"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3@5.16.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3@6.7.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-array@1.2.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-array@2.12.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-axis@1.0.12"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-axis@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-brush@1.1.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-brush@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-chord@1.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-chord@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-collection@1.0.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-color@1.2.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-color@1.4.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-color@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-contour@1.3.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-contour@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-dispatch@1.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-dispatch@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-drag@1.2.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-drag@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-dsv@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-dsv@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-ease@1.0.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-ease@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-ease@3.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-fetch@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-fetch@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-force@1.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-force@2.1.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-format@1.3.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-format@1.4.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-format@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-geo@1.12.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-geo@2.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-hierarchy@1.1.9"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-hierarchy@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-interpolate@1.3.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-interpolate@1.4.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-interpolate@2.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-path@1.0.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-path@1.0.9"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-path@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-polygon@1.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-polygon@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-quadtree@1.0.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-quadtree@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-random@1.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-random@2.2.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-scale@1.0.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-scale@2.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-scale@2.2.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-scale@3.3.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-scale-chromatic@1.5.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-scale-chromatic@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-selection@1.4.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-selection@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-shape@1.2.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-shape@1.3.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-shape@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-time@1.0.10"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-time@1.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-time@2.1.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-time-format@2.1.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-time-format@2.3.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-time-format@3.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-timer@1.0.10"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-timer@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-transition@1.3.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-transition@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-voronoi@1.1.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-zoom@1.8.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "d3-zoom@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "dataloader@1.4.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "dd-trace@0.26.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "ddtrace@0.49.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "devtools-protocol@0.0.869402"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "diff@3.5.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "diff@4.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "diff@5.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "diff@5.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "draft-js@0.10.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "draft-js@0.10.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "duplexer2@0.1.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "duplexer3@0.1.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "duplexer3@0.1.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "eslint-plugin-flowtype@2.50.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "eslint-plugin-flowtype@4.6.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "eslint-plugin-flowtype@5.10.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "eslint-plugin-flowtype@5.4.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "esquery@1.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "esquery@1.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "esquery@1.4.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "exenv@1.2.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "fbjs-css-vars@1.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "ffi@1.15.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "ffi@1.15.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "ffi@1.9.25"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "filesize@3.6.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "filesize@6.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "filesize@8.0.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "flask@2.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "flat@5.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/address@2.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/address@2.1.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/boom@^9.1.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/bourne@1.3.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/hoek@8.2.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/hoek@8.5.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/hoek@9.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/joi@15.1.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/topo@3.1.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/topo@3.1.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@hapi/topo@5.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hawk@3.1.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hawk@6.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "highlight.js@10.7.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "highlight.js@9.15.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "highlight.js@9.15.9"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "highlight.js@9.18.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoek@2.16.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoek@4.2.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoek@4.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoek@5.0.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoek@5.0.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoek@6.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoek@6.1.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoist-non-react-statics@2.5.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoist-non-react-statics@3.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoist-non-react-statics@3.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoist-non-react-statics@3.3.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hoist-non-react-statics@3.3.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "html_codesniffer@2.5.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@humanwhocodes/object-schema@1.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "hyphenate-style-name@1.0.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "idna@3.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "idna@3.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "ieee754@1.1.12"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "ieee754@1.1.13"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "ieee754@1.1.8"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "ieee754@1.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "immutable@3.7.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "immutable@3.7.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "intl-messageformat@10.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "intl-messageformat@4.4.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "intl-messageformat-parser@1.8.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "isemail@3.2.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-api@1.3.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-coverage@1.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-coverage@2.0.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-coverage@3.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-hook@1.2.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-instrument@1.10.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-instrument@3.3.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-instrument@4.0.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-report@1.1.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-report@2.0.8"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-report@3.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-source-maps@1.2.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-source-maps@3.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-lib-source-maps@4.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-reports@1.5.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-reports@2.2.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "istanbul-reports@3.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "itsdangerous@2.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "jinja2@2.11.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "jinja2@3.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "joi@11.4.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "joi@13.7.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "joi@17.5.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "jpeg-js@0.4.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "jpeg-js@0.4.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "jpeg-js@0.4.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "js-base64@2.4.9"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "js-base64@2.5.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "js-base64@2.6.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "js-base64@3.7.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@js-joda/core@3.2.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "kld-affine@2.0.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "kld-affine@2.1.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "kld-intersections@0.4.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "libevent@2.1.12"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "makeerror@1.0.11"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@mapbox/mapbox-gl-supported@1.5.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@mapbox/vector-tile@1.3.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "markupsafe@2.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "md5@2.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "md5@2.3.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "ndjson@1.5.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "normalize-css-color@1.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "parchment@1.1.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "parser-toolkit@0.0.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "pbf@3.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "pg@0.21.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "pg@1.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@plotly/d3-sankey@0.7.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "protobuf@3.17.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "protobuf@3.20.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "protobuf@4.21.8"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "protobufjs@6.10.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "protobufjs@6.11.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "protobufjs@6.11.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "protobufjs@6.8.8"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "protobufjs@6.9.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "protobufjs@7.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@protobufjs/aspromise@1.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@protobufjs/base64@1.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@protobufjs/codegen@2.0.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@protobufjs/eventemitter@1.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@protobufjs/fetch@1.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@protobufjs/float@1.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@protobufjs/inquire@1.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@protobufjs/path@1.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@protobufjs/pool@1.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@protobufjs/utf8@1.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "puma@3.12.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "puma@5.3.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "python-dotenv@0.19.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "qs@6.10.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "qs@6.11.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "qs@6.4.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "qs@6.4.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "qs@6.5.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "qs@6.5.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "qs@6.5.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "qs@6.6.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "qs@6.7.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "qs@6.9.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "quill@1.3.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "react-mentions@2.4.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "react-transition-group@1.2.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "react-transition-group@2.5.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "react-transition-group@2.6.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "react-transition-group@2.9.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "react-transition-group@4.4.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "rw@0.1.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "rw@1.3.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/browser@5.30.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/core@4.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/core@5.27.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/core@5.30.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/core@6.19.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/hub@4.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/hub@5.27.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/hub@5.30.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/hub@6.19.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/minimal@4.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/minimal@5.27.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/minimal@5.30.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/minimal@6.19.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/node@4.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/node@5.27.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/node@6.19.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/types@4.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/types@5.27.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/types@5.30.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/types@6.19.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/utils@4.0.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/utils@5.27.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/utils@5.30.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sentry/utils@6.19.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "serialize-javascript@1.5.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "serialize-javascript@1.6.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "serialize-javascript@1.7.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "serialize-javascript@1.9.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "serialize-javascript@2.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "serialize-javascript@4.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "serialize-javascript@5.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "serialize-javascript@6.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "sha1@1.1.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "showdown@1.9.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sideway/address@4.1.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sideway/formula@3.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sideway/pinpoint@2.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "signedsource@1.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sinonjs/commons@1.8.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@sinonjs/fake-timers@6.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "sister@3.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "sntp@2.1.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "source-map@0.5.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "source-map@0.5.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "source-map@0.6.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "source-map@0.7.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "source-map-js@1.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "source-map-js@1.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "sprintf-js@1.0.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "sprintf-js@1.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "sqlparse@0.4.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "stream-json@0.5.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "table@4.0.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "table@5.4.6"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "table@6.0.7"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "table@6.7.5"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "tmpl@1.0.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "topo@2.0.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "topo@3.0.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "to-string-loader@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "tough-cookie@2.3.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "tough-cookie@2.3.4"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "tough-cookie@2.4.3"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "tough-cookie@2.5.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "tough-cookie@3.0.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "tough-cookie@4.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "tough-cookie@4.1.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "warning@3.0.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "werkzeug@2.1.1"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "werkzeug@2.2.2"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "@xtuc/ieee754@1.2.0"
+  },
+  {
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "software": "youtube-player@5.5.2"
+  },
+  {
+    "license": [
+      "BSL-1.0"
+    ],
+    "software": "boost@1.76.0"
+  },
+  {
+    "license": [
+      "BSL-1.0"
+    ],
+    "software": "boost-for-react-native@1.63.0"
+  },
+  {
+    "license": [
+      "BSL-1.0"
+    ],
+    "software": "Flipper-Boost-iOSX@1.76.0.1.11"
+  },
+  {
+    "license": [
+      "BSL-1.0"
+    ],
+    "software": "polytope-closest-point@1.0.0"
+  },
+  {
+    "license": [
+      "CC-BY-3.0"
+    ],
+    "software": "spdx-exceptions@2.2.0"
+  },
+  {
+    "license": [
+      "CC-BY-3.0"
+    ],
+    "software": "spdx-exceptions@2.3.0"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30000903"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30000918"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30000946"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30000998"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30001027"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30001203"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30001244"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30001283"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30001344"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30001366"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "caniuse-lite@1.0.30001422"
+  },
+  {
+    "license": [
+      "CC-BY-4.0"
+    ],
+    "software": "node-releases@1.0.2"
+  }
+]
