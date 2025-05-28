@@ -232,7 +232,7 @@ If Customer uses Retool AI, the Retool AI Terms will be incorporated by referenc
 
 ### Retool AI
 
-The [Retool AI Terms](./product-specific-terms/retool-ai-terms.md) contain additional terms and conditions that apply to Customer’s use of Retool AI, if applicable. If Customer uses Retool AI, the Retool AI Terms will be incorporated by reference into these Terms.
+The [Retool AI Terms](https://docs.retool.com/legal/retool-ai-terms) contain additional terms and conditions that apply to Customer’s use of Retool AI, if applicable. If Customer uses Retool AI, the Retool AI Terms will be incorporated by reference into these Terms.
 
 ## SURVIVAL
 

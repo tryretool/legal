@@ -15,7 +15,7 @@ Applicable to customers on any plan.
 
 :::
 
-This Acceptable Use Policy sets out a list of acceptable and unacceptable conduct for our Services. If we believe a violation of the policy is deliberate, repeated or presents a credible risk of harm to other users, our customers, the Services or any third parties, we may suspend or terminate your access, or if you use the Services under a paid subscription plan, we may downgrade your plan to a free plan. This policy may change as Retool grows and evolves, so please check back regularly for updates and changes. Capitalized terms used below but not defined in this policy have the meaning set forth in the [User Terms of Service](../agreements/user-terms-of-service.md).
+This Acceptable Use Policy sets out a list of acceptable and unacceptable conduct for our Services. If we believe a violation of the policy is deliberate, repeated or presents a credible risk of harm to other users, our customers, the Services or any third parties, we may suspend or terminate your access, or if you use the Services under a paid subscription plan, we may downgrade your plan to a free plan. This policy may change as Retool grows and evolves, so please check back regularly for updates and changes. Capitalized terms used below but not defined in this policy have the meaning set forth in the [User Terms of Service](https://docs.retool.com/legal/user-terms-of-service).
 
 ## Do
 
