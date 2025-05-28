@@ -119,7 +119,7 @@ If Retool does not receive Customer's payment of any fees due under this Contrac
 
 ### Credits
 
-Any credits that may accrue to Customer's account (for example, from a promotion), will expire following expiration or termination of the applicable Contract, will have no currency or exchange value, and will not be transferable or refundable.
+Some Services subscription plans may include a limited quantity of credits that may be applied towards your use of specific products or features. Credits must be used within their designated period of validity and will not roll over. All credits will expire following expiration or termination of the applicable Contract. Credits will have no currency or exchange value, and will not be transferable or refundable.
 
 ## OUR RESPONSIBILITIES
 
@@ -218,7 +218,9 @@ The Receiving Party will (a) take at least reasonable measures to prevent the un
 
 The Receiving Party may access or disclose Confidential Information of the Disclosing Party if it is required by law; provided, however, that the Receiving Party gives the Disclosing Party prior notice of the compelled access or disclosure (to the extent legally permitted) and reasonable assistance, at the Disclosing Party's cost, if the Disclosing Party wishes to contest the access or disclosure. Without limiting the foregoing, please review the [Data Request Policy](https://docs.retool.com/page/data-request-policy) for details on how requests may be made for the disclosure of Customer Data and how we will handle those requests. If the Receiving Party is compelled by law to access or disclose the Disclosing Party's Confidential Information, the Disclosing Party will reimburse the Receiving Party for its reasonable cost of compiling and providing access to such Confidential Information as well as the reasonable cost for any support provided in connection with the Disclosing Party seeking a protective order or confidential treatment for the Confidential Information to be produced.
 
-## PRODUCT SPECIFIC TERMS FOR AGENCIES
+## PRODUCT SPECIFIC TERMS
+
+### For Agencies
 
 This section applies if Customer is an agency or freelancer that builds applications for its own clients ("Agency Clients") and it has been approved by Retool to use the Services under the Agency plan ("Agency Plan").
 
@@ -227,6 +229,10 @@ If Customer uses the Services under an Agency Plan, Customer will be permitted t
 In addition to Customer's other indemnification obligations under these Customer Terms, Customer will defend the Retool Indemnified Parties from and against any and all claims, actions, suits, proceedings, and demands made or brought by an Agency Client against Retool that arises from Customer's acts or omissions during the course of its relationship with the Agency Client, and will indemnify the Retool Indemnified Parties for all reasonable attorney's fees incurred and damages and other costs finally awarded against a Retool Indemnified Party in connection with or as a result of, and for amounts paid by a Retool Indemnified Party under a settlement Customer approves of in connection with, such claim, action, suit, proceeding, or demand. The "Limitations on Indemnification" section of these Customer Terms will apply to Customer's indemnification obligations under this section.
 
 If Customer uses Retool AI, the Retool AI Terms will be incorporated by reference into these Terms.
+
+### Retool AI
+
+The [Retool AI Terms](./product-specific-terms/retool-ai-terms.md) contain additional terms and conditions that apply to Customer’s use of Retool AI, if applicable. If Customer uses Retool AI, the Retool AI Terms will be incorporated by reference into these Terms.
 
 ## SURVIVAL
 
