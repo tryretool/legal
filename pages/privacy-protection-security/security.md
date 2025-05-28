@@ -1,6 +1,6 @@
 ---
 title: Security Practices
-slug: /security-practices
+slug: /security
 sidebar_position: 3
 tags:
   - free
