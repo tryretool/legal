@@ -2,6 +2,11 @@
 title: Retool AI Terms
 sidebar_position: 1
 slug: /retool-ai-terms
+tags:
+  - free
+  - team
+  - business
+  - enterprise
 ---
 
 :::note

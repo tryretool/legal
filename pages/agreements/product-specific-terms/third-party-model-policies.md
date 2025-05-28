@@ -5,7 +5,18 @@ unlisted: true
 hide_banner: true
 pagination_next:
 pagination_prev:
+tags:
+  - free
+  - team
+  - business
+  - enterprise
 ---
+
+:::note
+
+Applicable to customers on any plan.
+
+:::
 
 Duis excepteur sit id esse eu fugiat deserunt mollit Lorem tempor exercitation aliqua. Et anim nostrud veniam culpa sunt. Et sit mollit enim labore minim reprehenderit ex qui. Mollit fugiat quis ipsum eiusmod in adipisicing. Irure commodo et ex reprehenderit nostrud officia reprehenderit culpa.
 

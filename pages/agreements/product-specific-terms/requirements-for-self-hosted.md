@@ -2,6 +2,11 @@
 title: Requirements for Self-hosted Deployments
 sidebar_position: 2
 slug: /requirements-self-hosted-deployments
+tags:
+  - free
+  - team
+  - business
+  - enterprise
 ---
 
 :::note
