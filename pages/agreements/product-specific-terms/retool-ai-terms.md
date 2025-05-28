@@ -17,15 +17,12 @@ Applicable to customers on any plan.
 
 These Retool AI Terms contain terms and conditions that apply to Customer's use of Retool AI (as defined below), and are supplemental to, and form part of, the [Terms of Service](https://docs.retool.com/legal/customer-terms-of-service), [Master Subscription Agreement](https://docs.retool.com/legal/master-subscription-agreement), or other written agreement between Retool, Inc. ("**Retool**") and Customer that governs Customer's use of the Services (the "**Agreement**"). Capitalized terms used but not otherwise defined in these AI Terms will have the meanings given to them in the Agreement. Retool AI will be deemed part of the Services under the Agreement.
 
-## Definitions
+## 1. Definitions
 
 - "**Retool AI**" means Retool's suite of developer tools, features, and products that enable Customer to build AI-Enabled Applications. "Retool AI" will include the Agents Platform.
-- "**Agent Data**" means:
-  1. all natural language instructions and prompts that Customer submits to the Agents Platform to configure a Customer Agent; and
-  1. information submitted, accessed, received, and used by a Customer Agent in connection with completing a task, including User Input.
-- "**Agents Platform**" means Retool's development platform for:
-  1. building, testing, and deploying Customer Agents; and
-  1. monitoring the ongoing performance of such Customer Agents.
+
+- “**Agent Data**” means (i) all natural language instructions and prompts that Customer submits to the Agents Platform to configure a Customer Agent; and (ii) information submitted, accessed, received, and used by a Customer Agent in connection with completing a task, including User Input.
+- “**Agents Platform**” means Retool’s development platform for (i) building, testing, and deploying Customer Agents; and (ii) monitoring the ongoing performance of such Customer Agents.
 - "**AI-Enabled Application**" means a Custom App that incorporates  features or functionality powered by artificial intelligence, including Third-Party Models and other large language models (LLMs). The term "AI-Enabled Application" will include Customer Agents.
 - "**Custom App**" means any application, workflow, or process that is customized, programmed, or developed by Customer using the Services, including any AI-Enabled Applications.
 - "**Customer Agent**" means an AI-powered system developed and deployed by Customer using the Agents Platform that uses LLM reasoning to automate the performance and completion of specific tasks on Customer's behalf.
@@ -33,26 +30,24 @@ These Retool AI Terms contain terms and conditions that apply to Customer's use 
 - "**Third-Party Model**" means any of the Retool-managed, third-party artificial intelligence models identified [here](./third-party-model-policies.md).
 - "**User Input**" means any data, information, input, or prompt that an Authorized User submits to an AI-Enabled Application to generate and receive Output.
 
-## Customer's Responsibilities
+## 2. Customer's Responsibilities
 
-1. User Input. Customer is solely responsible for the accuracy, appropriateness, and legality of all User Input submitted to AI-Enabled Applications. Customer will not submit User Input that are intended to generate, or would reasonably be expected to generate, Output that infringes, violates, or misappropriates the rights of any third party, or that otherwise results in unlawful or harmful Output or actions by a Customer Agent, nor will it permit Authorized Users to do the same.
+  1. User Input. Customer is solely responsible for the accuracy, appropriateness, and legality of all User Input submitted to AI-Enabled Applications. Customer will not submit User Input that are intended to generate, or would reasonably be expected to generate, Output that infringes, violates, or misappropriates the rights of any third party, or that otherwise results in unlawful or harmful Output or actions by a Customer Agent, nor will it permit Authorized Users to do the same.
 
-2. Compliance With Laws and the Acceptable Use Policy. Customer acknowledges and agrees that Customer controls how it uses Retool AI. As such, Customer represents and warrants that its use cases for Retool AI, including all User Input, will:
-  1. comply with all applicable laws and regulations, including those applying to artificial intelligence, data protection, intellectual property, and export controls; and
-  1. not be used to develop or deploy AI systems in a manner that is discriminatory, deceptive, or harmful. Customer will also comply with the [Acceptable Use Policy](https://docs.retool.com/legal/acceptable-use-policy), as it may be updated by Retool from time to time.
+  2. Compliance With Laws and the Acceptable Use Policy. Customer acknowledges and agrees that Customer controls how it uses Retool AI. As such, Customer represents and warrants that its use cases for Retool AI, including all User Input, will (i) comply with all applicable laws and regulations, including those applying to artificial intelligence, data protection, intellectual property, and export controls; and (ii) not be used to develop or deploy AI systems in a manner that is discriminatory, deceptive, or harmful. Customer will also comply with the [Acceptable Use Policy](https://docs.retool.com/legal/acceptable-use-policy), as it may be updated by Retool from time to time.
 
-3. Transparency and Disclosure Obligations. Customer is solely responsible for ensuring that any legally requiredappropriate disclosures are made to its Authorized Users regarding the use of artificial intelligence features or systems within its AI-Enabled Applications. This includes clearly informing Authorized Users when they are interacting with or receiving content from an AI-Enabled Application, where such disclosure is required by applicable law and regulations, or where it is reasonably necessary to avoid user confusion.
+  . Transparency and Disclosure Obligations. Customer is solely responsible for ensuring that any legally requiredappropriate disclosures are made to its Authorized Users regarding the use of artificial intelligence features or systems within its AI-Enabled Applications. This includes clearly informing Authorized Users when they are interacting with or receiving content from an AI-Enabled Application, where such disclosure is required by applicable law and regulations, or where it is reasonably necessary to avoid user confusion.
 
-4. Third-Party Models. AI-Enabled Applications and Customer Agents are powered by Third-Party Models. Customer will have the option to choose its desired Third-Party Model. Customer must comply with the [Third-Party Model Policies](./third-party-model-policies.md). Retool may suspend Customer's use of a Third-Party Model if Retool reasonably believes that Customer is in breach of the applicable Third-Party Model policies. If reasonable under the circumstances, Retool will notify Customer in advance of any suspension and may provide Customer an opportunity to remediate the issue.
+  4. Third-Party Models. AI-Enabled Applications and Customer Agents are powered by Third-Party Models. Customer will have the option to choose its desired Third-Party Model. Customer must comply with the [Third-Party Model Policies](./third-party-model-policies.md). Retool may suspend Customer's use of a Third-Party Model if Retool reasonably believes that Customer is in breach of the applicable Third-Party Model policies. If reasonable under the circumstances, Retool will notify Customer in advance of any suspension and may provide Customer an opportunity to remediate the issue.
 
 5. Agents Platform. Customer acknowledges and agrees that the Agents Platform includes evaluation and observability features that enable Customer to test and monitor the performance of Customer Agents. Customer will be solely responsible for:
     1. determining whether a Customer Agent's actions and behaviors are lawful and appropriate for its use case;
-    1. any Output returned and any actions or steps taken by a Customer Agent; and
-    1. ensuring that that Agent Data is collected, submitted, stored or otherwise processed ("**Processed**") lawfully, and that the Agent Data, and the Processing thereof does not violate any third-party proprietary, privacy or other rights.
+    2. any Output returned and any actions or steps taken by a Customer Agent; and
+    3. ensuring that that Agent Data is collected, submitted, stored or otherwise processed ("**Processed**") lawfully, and that the Agent Data, and the Processing thereof does not violate any third-party proprietary, privacy or other rights.
 
 Customer is also solely responsible for the configuration and permissioning of any tools or integrations used by Customer Agents in the Processing of Agent Data.
 
-## User Input, Output, and Agent Data
+## 3. User Input, Output, and Agent Data
 
 1. Ownership. Retool does not own nor will it claim ownership of User Input, Output, or Agent Data.
 
