@@ -71,7 +71,7 @@ If Customer connects, installs or enables Non-Retool Products for use with the S
 **5.1. Expert Services.** If Customer purchases Expert Services under the applicable Order Form, the [Expert Services Addendum](https://docs.retool.com/legal/expert-services-addendum) will apply to such Expert Services.
 
 **5.2. Product-Specific Terms.** Certain products and features made available by Retool ("Retool
-Products") are subject to additional terms available at https://docs.retool.com/product-specific-terms ("Product-Specific Terms"). If
+Products") are subject to additional terms available at https://docs.retool.com/legal/pages/agreements/product-specific-terms ("Product-Specific Terms"). If
 Customer purchases a Retool Product under an Order Form or enables the use of a Retool Product, the applicable Product-Specific Terms will apply to such use and will be incorporated by reference into this Agreement.
 
 ## 6. Fees and Payment
