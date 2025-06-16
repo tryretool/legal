@@ -53,7 +53,7 @@ This Acceptable Use Policy sets out a list of acceptable and unacceptable conduc
 - access or use the Services or any Custom Apps on behalf of, or for the benefit of, any Patent Assertion Entity (as defined in the Customer-Specific Supplement); or
 - authorize, permit, enable, induce or encourage any third party to do any of the above.
 
-In addition to the requirements and restrictions above, the following will apply if you use Retool AI.
+**In addition to the requirements and restrictions above, the following will apply if you use Retool AI.**
 
 You and your Authorized Users will not:
 
