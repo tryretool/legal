@@ -1,6 +1,6 @@
 ---
 title: Expert Services Addendum
-slug: /exptert-services-addendum
+slug: /expert-services-addendum
 sidebar_position: 1
 tags:
   - free
@@ -120,7 +120,7 @@ Retool under a court-approved settlement of such claim against Retool.
 **7.3.** Retool  will  defend  Customer  and  its  Affiliates,  and  its  and  their  respective  officers,  directors,
 employees and contractors, from and against a suit or proceeding by a third party arising from or related to
 Customer's use of Deliverables or Retool Technology in accordance with this Addendum and shall indemnify
-Retool for any damages, attorney fees and costs finally awarded against Retool as a result of, or for any
+Customer for any damages, attorney fees and costs finally awarded against Customer as a result of, or for any
 amounts paid by Retool under a court-approved settlement of such claim against Customer,  provided,
 however, that Retool shall have no liability under this Section 7.3 to the extent the claim arises from
 (i) Customer Materials; or (ii) Retool following specifications, requests or instructions provided by
@@ -128,19 +128,21 @@ Customer or on Customer's behalf to create such Deliverable.
 
 ## 8. LIMITATION OF LIABILITY
 
-**8.1. Limitation of Liability** EXCEPT  FOR  DAMAGES  ARISING  OUT  OF  EITHER  PARTY'S  GROSS  NEGLIGENCE  OR  WILLFUL
+**8.1. Limitation of Liability** EXCEPT FOR EXCLUDED CLAIMS (AS DEFINED IN SECTION 8.3 BELOW) OR FOR DAMAGES  ARISING  OUT  OF  EITHER  PARTY'S  GROSS  NEGLIGENCE  OR  WILLFUL
 MISCONDUCT, IN NO EVENT SHALL EITHER PARTY'S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO
 THIS ADDENDUM (WHETHER IN CONTRACT OR TORT OR UNDER ANY OTHER THEORY OF LIABILITY) EXCEED
 THE TOTAL FEES PAID BY CUSTOMER FOR THE EXPERT SERVICES OUT OF WHICH THE LIABILITY AROSE. THE
 FOREGOING  SHALL  NOT  LIMIT  CUSTOMER'S  PAYMENT OBLIGATIONS UNDER  THE  "FEES  AND PAYMENT"
 SECTION ABOVE.
 
-**8.2. Exclusion of Consequential and Related Damages.** IN NO EVENT SHALL EITHER PARTY HAVE ANY
+**8.2. Exclusion of Consequential and Related Damages.** EXCEPT  FOR EXCLUDED CLAIMS, IN NO EVENT SHALL EITHER PARTY HAVE ANY
 LIABILITY TO THE OTHER PARTY OR TO ANY THIRD PARTY FOR ANY LOST PROFITS OR REVENUES OR FOR ANY
 INDIRECT,  SPECIAL,  INCIDENTAL,  CONSEQUENTIAL,  COVER  OR  PUNITIVE  DAMAGES  HOWEVER  CAUSED,
 WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, AND WHETHER OR NOT THE
 PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING DISCLAIMER SHALL NOT
 APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
+
+**8.3. Excluded Claims.** “**Excluded Claims**” means: (i) Customer’s indemnification obligations under Section 7.2; (i) Retool’s indemnification obligations under Section 7.3; (iii) a party’s gross negligence, fraudulent acts or willful misconduct; (iv) a party’s infringement or misappropriation of the other party’s intellectual property rights; or (v) liability that cannot be limited by applicable laws.
 
 ## 9. Term and Termination
 
