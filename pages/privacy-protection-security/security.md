@@ -39,11 +39,9 @@ When you use the Retool Cloud Services, Retool’s storage of Customer Data prim
 
  Other features, functionality, and products of the Services may also require Retool to store Customer Data. For example, if you enable [query or workflow caching](https://docs.retool.com/docs/caching-in-retool), Customer Data is temporarily cached by Retool for the specified cache duration. You can invalidate a query's cache—or disable query and workflow caching entirely—at any time.
 
-When you elect to deploy self-hosted Workflows with a Retool-managed Temporal cluster, encrypted internal Workflow IDs, Workflow block names, user IDs, the Workflow name, the host name, and the base domain are stored in Temporal Technologies’ Cloud offering; no Customer Data, code or query contents are sent to Temporal Cloud. All Customer Data is encrypted with your private encryption key prior to leaving your own VPC or VPN. The encryption key is defined within your infrastructure and is never sent to Retool or Temporal Technologies. Customer Data is stored in Temporal Cloud for 14 days by default, this retention period is configurable by submitting a request to Retool.
-
 ### Self-Hosted Services
 
-When you elect to deploy self-hosted Workflows with a Retool-managed Temporal cluster, only encrypted internal Workflow ids and Workflow block names are stored in Temporal Technologies’ Cloud offering; no other Customer Data, code or query contents are sent to Temporal Cloud. All Customer Data is encrypted with your private encryption key prior to leaving your own VPC or VPN. The encryption key is defined within your infrastructure and is never sent to Retool or Temporal Technologies. Customer Data is stored in Temporal Cloud for 14 days by default, this retention period is configurable by submitting a request to Retool.
+When you use the Self-Hosted Services, no Retool systems store Customer Data and no Retool personnel have technical or logical access to Customer Data. Only Usage Information (as defined in the Agreement) is shared with Retool, and when you elect to deploy self-hosted Workflows with a Retool-managed Temporal cluster, only orchestration data, such as internal Workflow IDs, and encrypted Workflow block names, user IDs, Workflow name, host name, and base domain, are stored in Temporal Technologies’ Cloud offering (see our [Documentation](https://docs.retool.com/self-hosted/concepts/temporal) for more information).
 
 ## Confidentiality and security controls
 
