@@ -17,6 +17,8 @@ Applicable to customers on any plan.
 
 These Assist Beta Terms (these "**Beta Terms**") contain the terms under which Customer may access and use Assist Beta. By enabling or using Assist Beta, Customer agrees these Beta Terms are binding on Customer. These Assist Beta Terms form part of the [Terms of Service](https://docs.retool.com/legal/customer-terms-of-service), [Master Subscription Agreement](https://docs.retool.com/legal/master-subscription-agreement), or other written agreement between Retool, Inc. (“**Retool**”) and Customer that governs Customer’s use of the Services (the “**Agreement**”). In the event of any conflict between the Agreement and these Beta Terms, these Beta Terms will control with respect to such conflict.
 
+Retool may update these Beta Terms from time to time. If Retool intends to makes a material change, Retool will notify Customer reasonably in advance of the change taking effect, either by email or by messaging Customer through the Services. Material changes will become effective on the date set forth in the notice, and all other changes will become effective upon posting of the change. If Customer or any Authorized User accesses or uses Assist Beta after the effective date, such use will constitute Customer's acceptance of the revised version of the Beta Terms.
+
 **What does “Customer” mean?**
 
 - "**Customer**" means the individual agreeing to these Beta Terms or, if you are entering into these Beta Terms on behalf of an entity (such as the company you work for) that entity.
