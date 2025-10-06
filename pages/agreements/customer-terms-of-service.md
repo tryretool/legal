@@ -89,7 +89,7 @@ Customer will (a) inform Authorized Users of all Customer policies and practices
 
 ### Our Removal Rights
 
-If we believe that there is a violation of the Contract that can simply be remedied by Customer's removal of certain Customer Data, Custom Apps or Customer's reconfiguration of the Services or disabling of a Non-Retool Product, we will, in most cases, ask Customer to take direct action rather than intervene. However, we may directly step in and take what we determine to be appropriate action, if Customer does not take appropriate action, or if we believe there is a credible risk of harm to us, the Services, Authorized Users, or any third parties.
+If we believe that there is a violation of the Contract or the Acceptable Use Policy, we may take action as we determine appropriate for the nature of the violation, such as suspending your access to the Services, terminating the Contract, or removing Custom Apps or Customer Data if they present harm to Retool, other Retool customers, or any third parties. 
 
 ## PAYMENT OBLIGATIONS
 
@@ -228,7 +228,8 @@ If Customer uses the Services under an Agency Plan, Customer will be permitted t
 
 In addition to Customer's other indemnification obligations under these Customer Terms, Customer will defend the Retool Indemnified Parties from and against any and all claims, actions, suits, proceedings, and demands made or brought by an Agency Client against Retool that arises from Customer's acts or omissions during the course of its relationship with the Agency Client, and will indemnify the Retool Indemnified Parties for all reasonable attorney's fees incurred and damages and other costs finally awarded against a Retool Indemnified Party in connection with or as a result of, and for amounts paid by a Retool Indemnified Party under a settlement Customer approves of in connection with, such claim, action, suit, proceeding, or demand. The "Limitations on Indemnification" section of these Customer Terms will apply to Customer's indemnification obligations under this section.
 
-If Customer uses Retool AI, the Retool AI Terms will be incorporated by reference into these Terms.
+### Assist (Beta)
+The Assist Beta Terms contain additional terms and conditions that apply to Customer’s use of Assist Beta, if applicable. If Customer uses Assist Beta, the [Assist Beta Terms](https://docs.retool.com/legal/assist-beta-terms) will be incorporated by reference into these Terms. 
 
 ### Retool AI
 
