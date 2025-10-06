@@ -6,7 +6,6 @@ tags:
   - team
   - business
   - enterprise
-unlisted: true
 ---
 
 :::note
@@ -31,6 +30,7 @@ Capitalized terms used in these Beta Terms will have the meanings below. All oth
 - “**Assist Beta**” means the features of the Services that use a Supported LLM to help Customer create or modify Custom Apps through natural language instructions.
 - “**Assist Prompt**” means any data entered by Customer or an Authorized User into Assist Beta, including prompts and natural language instructions, to generate Suggestions. 
 - “**Custom App**” means any application, workflow, or process that is customized, programmed, or developed by Customer using the Services.
+- “**Customer Data**” means any electronic data or content that an Authorized User submits to a Custom App, for example, by querying a Database, but excluding Non-Retool Products and the Services.
 - “**DPA**” means the data processing addendum executed between the parties, or if the parties have not executed a data processing addendum, then the data processing addendum located at https://retool.com/dpa.pdf.
 - “**Suggestion**” means any data generated and returned by Assist Beta to Customer or an Authorized User based on the Assist Prompt.
 - “**Supported LLM**” means any of the large language models that Customer may use with Assist Beta, as set forth in the applicable Documentation.
@@ -43,21 +43,23 @@ Capitalized terms used in these Beta Terms will have the meanings below. All oth
 
 **2.3 Suggestions.** Customer acknowledges and agrees that Suggestions (A) may contain errors and may not be bug-free; and (B) should not be relied upon for or as a substitute for professional advice. Customer is solely responsible for its use of any Suggestions and for reviewing and validating Suggestions for suitability and completeness before use as part of a Custom App. Assist Beta may produce similar or identical Suggestions for other users who submit similar prompts. Retool does not guarantee that Suggestions are unique, free of third-party rights, or suitable for any particular purpose. Customer is solely responsible for reviewing, testing, and using Suggestions in compliance with applicable laws and third-party rights. Customer will not represent that Suggestions are human-generated or approved or endorsed by Retool or its third parties.
 
-**2.4 User Feedback.** If Customer or an Authorized User elects to label a Suggestion with a “thumbs up” or “thumbs down” reaction and submit feedback to Retool, Customer consents to the Assist Prompt and Suggestion, along with other related data as described in the applicable Documentation (“**User Feedback Data**”), being shared with Retool and Retool’s third parties for Retool’s product improvement purposes. To the extent User Feedback Data contains any data or other information relating to an identified or identifiable natural person (“**Personal Data**”), Customer acknowledges and agrees that Retool will process such Personal Data as a controller. Customer and its Authorized Users are not required to submit any user feedback as described in this section.
+**2.4 User Feedback.** Customer and its Authorized Users may have the option to submit in-product feedback or recommendations regarding Suggestions or the overall performance or functionality of Assist Beta. When submitting such feedback to Retool, Customer consents to other related data, as described in the applicable Documentation and why may include Assist Prompts and Suggestions (“**User Feedback Data**”), being shared with Retool and Retool’s third parties for Retool’s product improvement purposes. To the extent User Feedback Data contains any data or other information relating to an identified or identifiable natural person (“**Personal Data**”), Customer acknowledges and agrees that Retool will process such Personal Data as a controller. Customer and its Authorized Users are not required to submit any user feedback as described in this section.
 
 **2.5 Usage Information.** Retool may collect and use Usage Information as permitted under the Agreement.
 
-## 3. Assist Prompts and Suggestions.
+## 3. Proprietary Rights.
 
-**3.1 Ownership.** Assist Prompts and Suggestions will be considered as Customer’s Confidential Information. Retool does not own nor will it claim ownership of Assist Prompts. Retool does not own nor will it claim ownership of Suggestions, except where Suggestions include general guidance on using the Services or links to Documentation or other resources made publicly available by Retool. Nothing in this section will reduce Customer's proprietary rights in its Custom Apps as set forth in the Agreement.
+**3.1 Ownership of Assist Prompts and Suggestions.** Assist Prompts and Suggestions will be considered as Customer’s Confidential Information. Retool does not own nor will it claim ownership of Assist Prompts. Retool does not own nor will it claim ownership of Suggestions, except where Suggestions include general guidance on using the Services or links to Documentation or other resources made publicly available by Retool. Nothing in this section will reduce Customer's proprietary rights in its Custom Apps as set forth in the Agreement.
 
-**3.2 Use by Retool.** Retool may process Assist Prompts and Suggestions to (a) provide, maintain, and update Assist Beta, and to provide necessary access to the providers of Retool-Managed LLMs; (b) prevent or address service or technical problems or at Customer's request in connection with a customer support matter; and (c) as further described in Section 3.3 below.
+**3.2 Retool's Use of Data.** 
+**3.2.1** Retool may process Assist Prompts, Suggestions, Customer Data, and Custom Apps to (a) provide, maintain, and update Assist Beta, and to provide necessary access to the providers of Retool-Managed LLMs; (b) prevent or address service or technical problems, including for purposes of debugging, or at Customer's request in connection with a customer support matter; and (c) as further described in Section 3.3 below.
+**3.2.2** Retool may collect and use Usage Information as permitted under the Agreement.
 
 **3.3 Product Improvement.**
 
-**3.3.1 Free, Team, and Business subscription plans.** If Customer is using Assist Beta under a Free, Team, or Business subscription plan, or under a “Business Platform (Cloud)” subscription as set forth in its current Order Form, Retool will be permitted to use Assist Prompts and Suggestions to enhance, improve, and develop Assist Beta, including through model training or fine-tuning. Before using Assist Prompts or Suggestions for model training or fine-tuning purposes, Retool will provide Customer advance notice, which may be provided via email or through the Services, and make available a mechanism to opt-out of the use of such data for such purposes.
+**3.3.1 Free, Team, and Business subscription plans.** If Customer is using Assist Beta under a Free, Team, or Business subscription plan, or under a “Business Platform (Cloud)” subscription as set forth in its current Order Form, Retool will be permitted to use, and derive data from, Assist Prompts and Suggestions to enhance, improve, and develop Assist Beta, including through model training or fine-tuning. Before using Assist Prompts, Suggestions, or any data derived therefrom for model training or fine-tuning purposes, Retool will provide Customer advance notice, which may be provided via email or through the Services, and make available a mechanism to opt-out of the use of such data for such purposes.
 
-**3.3.2 Enterprise subscription plan.** If Customer is using Assist Beta under an “Enterprise Platform (Cloud)” subscription as set forth in its current Order Form, Retool will not use Assist Prompts, Suggestions, or other related data to enhance, improve or develop Assist Beta, including through training or fine-tuning Retool's own models, unless Customer has expressly consented to such use by following instructions supplied by Retool to Customer directly or through the Documentation.
+**3.3.2 Enterprise subscription plan.** If Customer is using Assist Beta under an “Enterprise Platform” subscription as set forth in its current Order Form, Retool will not use Assist Prompts, Suggestions, or other related data to enhance, improve or develop Assist Beta, including through training or fine-tuning Retool's own models, unless Customer has expressly consented to such use by following instructions supplied by Retool to Customer directly or through the Documentation.
 
 ## 4. Privacy.
 
