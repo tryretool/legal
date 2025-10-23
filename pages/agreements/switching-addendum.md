@@ -63,7 +63,7 @@ This Switching Addendum (this “**Addendum**”) is supplemental to, and forms 
 **6.1.** If Customer’s exercise of its rights under Section 4 or Section 5 of this Addendum results in the early termination of Customer’s then applicable Order Form or subscription term, the following will apply:
 
 - **6.1.1.** Customer will not be entitled to any refund of any prepaid fees;
-- **6.1.2.**Any unpaid fees, including those for the remaining years in the Order Form after the effective date of termination, will be immediately due and payable by Customer to Retool; and
+- **6.1.2.** Any unpaid fees, including those for the remaining years in the Order Form after the effective date of termination, will be immediately due and payable by Customer to Retool; and
 - **6.1.3** In no event will any termination relieve Customer of the obligation to pay any fees payable to Retool for the period prior to the effective date of termination.
 
 **6.2.** The parties acknowledge and agree that any remaining fees owed by Customer under the Order Form will not be considered as a Switching Charge.
