@@ -35,13 +35,13 @@ Retool may use the following Subprocessors to host Customer Data or provide othe
 
 ## Product-Specific Subprocessors
 
-| Entity Name                          | Retool Product     | Purpose of Processing                                      | Location      |
-| :----------------------------------- | :----------------- | :--------------------------------------------------------- | :------------ |
-| OpenAI, LLC                          | Retool AI (Agents) | Third-Party Model Provider                                 | United States |
-| Anthropic, PBC                       | Retool AI (Agents) | Third-Party Model Provider                                 | United States |
-| Baseten Labs, Inc.                   | Retool AI (Agents) | Third-Party infrastructure provider for open-source models | United States |
-| AlphaAI Technologies Inc. dba Tavily | Retool AI (Agents) | Third-Party web search provider for LLMs                   | United States |
-| ClickHouse, Inc.                     | Retool AI (Agents) | Third-Party data store for managing Agent logs             | United States |
+| Entity Name                          | Retool Product             | Purpose of Processing                                      | Location      |
+| :----------------------------------- | :------------------------- | :--------------------------------------------------------- | :------------ |
+| OpenAI, LLC                          | Retool AI (Agents, Assist) | Third-Party Model Provider                                 | United States |
+| Anthropic, PBC                       | Retool AI (Agents, Assist) | Third-Party Model Provider                                 | United States |
+| Baseten Labs, Inc.                   | Retool AI (Agents)         | Third-Party infrastructure provider for open-source models | United States |
+| AlphaAI Technologies Inc. dba Tavily | Retool AI (Agents)         | Third-Party web search provider for LLMs                   | United States |
+| ClickHouse, Inc.                     | Retool AI (Agents)         | Third-Party data store for managing Agent logs             | United States |
 
 ## Other Subprocessors
 
