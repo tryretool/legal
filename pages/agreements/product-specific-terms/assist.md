@@ -52,8 +52,9 @@ Capitalized terms used in these Beta Terms will have the meanings below. All oth
 **3.1 Ownership of Assist Prompts and Suggestions.** Assist Prompts and Suggestions will be considered as Customer’s Confidential Information. Retool does not own nor will it claim ownership of Assist Prompts. Retool does not own nor will it claim ownership of Suggestions, except where Suggestions include general guidance on using the Services or links to Documentation or other resources made publicly available by Retool. Nothing in this section will reduce Customer's proprietary rights in its Custom Apps as set forth in the Agreement.
 
 **3.2 Retool's Use of Data.** 
-**3.2.1** Retool may process Assist Prompts, Suggestions, Customer Data, and Custom Apps to (a) provide, maintain, and update Assist Beta, and to provide necessary access to the providers of Retool-Managed LLMs; (b) prevent or address service or technical problems, including for purposes of debugging, or at Customer's request in connection with a customer support matter; and (c) as further described in Section 3.3 below.
-**3.2.2** Retool may collect and use Usage Information as permitted under the Agreement.
+
+- **3.2.1** Retool may process Assist Prompts, Suggestions, Customer Data, and Custom Apps to (a) provide, maintain, and update Assist Beta, and to provide necessary access to the providers of Retool-Managed LLMs; (b) prevent or address service or technical problems, including for purposes of debugging, or at Customer's request in connection with a customer support matter; and (c) as further described in Section 3.3 below.
+- **3.2.2** Retool may collect and use Usage Information as permitted under the Agreement.
 
 **3.3 Product Improvement.**
 
