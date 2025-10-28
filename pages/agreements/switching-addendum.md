@@ -34,7 +34,7 @@ This Switching Addendum (this “**Addendum**”) is supplemental to, and forms 
 
 ## 3. Switch Notice.
 
-**3.1** If Customer intends to (A) initiate the Switching process with respect to the Retool Data Processing Service or (B) only erase its Exportable Data without Switching, Customer must provide two months’ written notice to its Retool account manager (such notice being a “**Switch Notice**”), which will include, if Customer intends to Switch to a new data processing service, the name of such service and its provider.
+**3.1** If Customer intends to (A) initiate the Switching process with respect to the Retool Data Processing Service or (B) only erase its Exportable Data without Switching, Customer must provide Retool two months’ written notice via email to billing@retool.com (such notice being a “**Switch Notice**”), which will include, if Customer intends to Switch to a new data processing service, the name of such service and its provider.
 
 ## 4. Erasure of Exportable Data.
 
@@ -42,7 +42,7 @@ This Switching Addendum (this “**Addendum**”) is supplemental to, and forms 
 
 **4.2. Deletion of Exportable Data.** The Retool Data Processing Service includes self-serve features and functionality that enable Customer to delete or export Exportable Data at any time during a subscription term. Customer acknowledges and agrees that Customer may use such self-serve features to exercise its right to erase Exportable Data under the EU Data Act.
 
-**4.3. Termination.** The Agreement may be terminated after the end of the Switch Notice Period, provided that Customer must provide written notice of termination to its Retool account manager. Retool will promptly confirm termination upon receipt of Customer’s notice. Section 6 (Early Termination Penalties) will apply for any early termination of the Agreement that occurs under this section.
+**4.3. Termination.** The Agreement may be terminated after the end of the Switch Notice Period, provided that Customer must provide Retool written notice of termination via email to billing@retool.com. Retool will promptly confirm termination upon receipt of Customer’s notice. Section 6 (Early Termination Penalties) will apply for any early termination of the Agreement that occurs under this section.
 
 ## 5. Switching.
 
@@ -56,7 +56,7 @@ This Switching Addendum (this “**Addendum**”) is supplemental to, and forms 
 
 **5.5. Deletion of Exportable Data.** Retool will retain Exportable Data for a period of thirty (30) calendar days after the Transitional Period expires (such period being the “**Retrieval Period**”). At the end of the Retrieval Period and upon Customer’s request, Retool will delete all Exportable Data, except for the Exportable Data which Retool is obligated to store under applicable laws.
 
-**5.6. Termination.** The Agreement may be terminated when Customer completes the Switching process, provided that it must provide written notice of termination to its Retool account manager. Retool will promptly confirm termination upon receipt of Customer’s notice. Section 6 (Early Termination Penalties) will apply for any early termination of the Agreement that occurs under this section.
+**5.6. Termination.** The Agreement may be terminated when Customer completes the Switching process, provided that it must provide Retool written notice of termination via email to billing@retool.com. Retool will promptly confirm termination upon receipt of Customer’s notice. Section 6 (Early Termination Penalties) will apply for any early termination of the Agreement that occurs under this section.
 
 ## 6. Early Termination Penalties.
 
