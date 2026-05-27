@@ -60,7 +60,7 @@ This AI Usage Policy will also apply to customers’ and their users’ use of a
 - Mislead any person that AI Output was solely human-generated or conceal the fact that an individual is interacting with artificial intelligence;
 - Use Retool AI Offerings (i) for mass surveillance, racial profiling, or any use that violates or encourages the violation of basic human rights or other applicable laws and regulations; (ii) to provide fully automated decision making in connection with use cases involving critical processes or the risk of loss of life, property or impact on an individual’s legal rights; (iii) in a manner that impersonates another for deceptive purposes; (iv) to send unsolicited, abusive, or deceptive messages of any type; or (v) for use cases that are prohibited or considered as “high risk” under the EU AI Act or other similar laws and regulations;
 - Include in any prompts or input any protected health information as defined by Health Insurance Portability and Accountability Act of 1996 (HIPAA) or any “sensitive personal information,” “sensitive data,” “special categories of data”, or similar terms defined under applicable data protection laws; or
-Authorize, permit, enable, induce or encourage any third party to do any of the above.
+- Authorize, permit, enable, induce or encourage any third party to do any of the above.
 
 <u>Retool-Managed LLMs:</u>
 
