@@ -6,11 +6,14 @@ tags:
   - team
   - business
   - enterprise
+unlisted: true
 ---
 
 _(Formerly known as the Assist Beta Terms)_
 
-**Note - These terms have been archived as of May 28, 2026. The [Retool AI Terms](https://docs.retool.com/legal/retool-ai-terms) will apply to all new subscriptions and renewals that occur on or after May 28, 2026.** 
+:::note
+These terms have been archived as of May 28, 2026. The [Retool AI Terms](https://docs.retool.com/legal/retool-ai-terms) will apply to all new subscriptions and renewals that occur on or after May 28, 2026.
+:::
 
 These AI App Builder Terms (these "**Terms**") contain the terms under which Customer may access and use the AI App Builder (as defined below). By enabling or using the AI App Builder, Customer agrees these Terms are binding on Customer. These Terms form part of the [Terms of Service](https://docs.retool.com/legal/customer-terms-of-service), [Master Subscription Agreement](https://docs.retool.com/legal/master-subscription-agreement), or other written agreement between Retool, Inc. ("**Retool**") and Customer that governs Customer’s use of the Services (the "**Agreement**"). In the event of any conflict between the Agreement and these Terms, these Terms will control with respect to such conflict.
 
