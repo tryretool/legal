@@ -15,9 +15,9 @@ Applicable to customers on any plan.
 
 :::
 
-These Requirements for Self-Hosted Deployments (“**Requirements**”) apply to customers who host the Retool Platform on their own infrastructure (a “**Self-Hosted Deployment**”) and are supplemental to, and form part of, the Agreement between Retool, Inc. (“**Retool**”) and Customer. "**Agreement**" means the [Retool Master Subscription Agreement](https://docs.retool.com/legal/master-subscription-agreement) or other written agreement between Retool and Customer, as specified in the Customer's then-current Order Form, that governs Customer's use of the Retool Platform.
+These Requirements for Self-Hosted Deployments (“**Requirements**”) apply to customers who host the Retool Platform on their own infrastructure (a “**Self-Hosted Deployment**”) and supplement and form part of the Agreement between Retool, Inc. (“**Retool**”) and Customer. "**Agreement**" means the [Retool Master Subscription Agreement](https://docs.retool.com/legal/master-subscription-agreement) or other written agreement between Retool and Customer, as specified in the Customer's then-current Order Form, that governs Customer's use of the Retool Platform.
 
-Capitalized terms used but not otherwise defined in these Requirements will have the meanings given to them in the Agreement.
+Capitalized terms used but not otherwise defined in these Requirements will have the meanings given to them in the Agreement. As used in these Requirements, "**Retool Platform**" will also mean the "**Services**" or other similar term used in the Agreement to refer to Retool's developer tools and platform.
 
 ## A. For All Self-Hosted Deployments
 
