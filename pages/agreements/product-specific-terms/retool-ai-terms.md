@@ -52,6 +52,8 @@ These Retool AI Terms ("**AI Terms**") supplement and form part of the [Terms of
 
 **3.5 Usage Information.** Retool may collect and analyze information relating to the use, configuration and performance of Retool AI (collectively “**Usage Information**”) for purposes of improving Retool AI and the Retool Platform.
 
+**3.6 Privacy.** Retool’s [Privacy Policy](https://docs.retool.com/legal/privacy-policy) is incorporated by reference into these AI Terms. If Retool processes Personal Data (as defined in the DPA) on Customer’s behalf as a “processor” or “service provider” (as such terms are defined under applicable data protection laws), the DPA will apply to such processing.  
+
 ## 4. AI Credits 
 
 Customer’s and Authorized Users’ use of Retool AI may require prepayment to Retool in the form of credits (“**AI Credits**”), and Customer may receive a monthly allocation of AI Credits based on its subscription plan for the Retool Platform, which will be specified in Customer’s then-current Order Form or, if Customer does not have a signed Order Form with Retool, at [AI Credits and Usage](https://docs.retool.com/support/billing-usage/ai-credits). If Customer’s monthly allocation of AI Credits is depleted, access to Retool AI may be suspended until Customer purchases additional AI Credits or receives its next monthly allocation of AI Credits. AI Credits are non-refundable, non-transferrable, and unless otherwise agreed in writing with Retool, expire monthly and do not roll over to the following month. Additional information relating to AI Credits can be found at [AI Credits and Usage](https://docs.retool.com/support/billing-usage/ai-credits).    
