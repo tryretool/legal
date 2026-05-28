@@ -24,7 +24,7 @@ These Retool AI Terms ("**AI Terms**") supplement and form part of the [Terms of
 - “**AI Output**" means all data, responses, content, information, and other output, including source code, returned by Retool AI to Customer or an Authorized User based on Customer Materials. 
 - “**Resource**" means any database, API, service, or other data source or system, including its structure, organization, and metadata, that Customer connects to the Retool Platform for use in building or operating Custom Apps.
 - "**Third-Party Service**" means any third-party service, product, solution, software, application programming interface, or other technology that Customer elects to connect, access, or integrate with through the Retool Platform, and which may require Customer authentication or a separate account to access or use.
-- “**User Prompt**" means any natural language instructions submitted by Customer or an Authorized User for processing by Retool AI. 
+- “**User Prompt**" means any natural language instructions and prompts submitted by Customer or an Authorized User directly to Retool AI via a chat interface.
 
 ## 2. Customer Materials and AI Output
 
