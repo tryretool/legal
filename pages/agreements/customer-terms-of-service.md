@@ -171,7 +171,7 @@ Unless an Order Form says something different, (a) all subscriptions automatical
 
 ### Termination for Cause
 
-We or Customer may terminate the Contract on notice to the other party if the other party materially breaches the Contract and such breach is not cured within thirty (30) days after the non-breaching party provides notice of the breach. Customer is responsible for its Authorized Users, including for any breaches of this Contract caused by its Users. We may terminate the Contract immediately on notice to Customer if we reasonably believe that the Retool Platform are being used by Customer or its Users in violation of applicable law.
+We or Customer may terminate the Contract on notice to the other party if the other party materially breaches the Contract and such breach is not cured within thirty (30) days after the non-breaching party provides notice of the breach. Customer is responsible for its Authorized Users, including for any breaches of this Contract caused by its Users. We may terminate the Contract immediately on notice to Customer if we reasonably believe that the Retool Platform is being used by Customer or its Users in violation of applicable law.
 
 ### Termination Without Cause
 
