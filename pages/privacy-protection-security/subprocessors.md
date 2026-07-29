@@ -50,8 +50,7 @@ Retool may use the following Subprocessors to perform other Service functions:
 
 | Entity Name               | Purpose of Processing                                  | Location of Subprocessors |
 | :------------------------ | :----------------------------------------------------- | :------------------------ |
-| Intercom, Inc..           | Third-party service provider of customer support tools | United States             |
-| Salesforce, Inc.          | Third-party service provider of customer support tools | United States             |
+| Pylon Labs, Inc.          | Third-party service provider of customer support tools | United States             |
 | Mailgun Technologies Inc. | Third-party service provider for sending Retool Email  | United States             |
 
 ## Retool Affiliates
