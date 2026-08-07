@@ -45,7 +45,7 @@ This Master Subscription Agreement (this **"Agreement"**) is entered into by and
 
 ## 3. Access and Use of the Retool Platform
 
-**3.1. Authorized Users.** Customer may permit its Authorized Users to access and use the Retool Platform in accordance with this Agreement, the Order Form and applicable Documentation. Retool is responsible for Authorized Users’ compliance with this Agreement. Authorized User subscriptions cannot be shared or used by more than one Authorized User, nor may Customer circumvent or bypass any fees that are charged on a per-Authorized User or per-Custom App basis, as described in the applicable Order Form. 
+**3.1. Authorized Users.** Customer may permit its Authorized Users to access and use the Retool Platform in accordance with this Agreement, the Order Form and applicable Documentation. Customer is responsible for Authorized Users’ compliance with this Agreement. Authorized User subscriptions cannot be shared or used by more than one Authorized User, nor may Customer circumvent or bypass any fees that are charged on a per-Authorized User or per-Custom App basis, as described in the applicable Order Form. 
 
 **3.2. Account Management.** Customer is responsible for maintaining control over its and Authorized User’ accounts, including the confidentiality of any login credentials, and is responsible for all activities that occur under Authorized Users’ accounts. Customer must promptly notify Retool if it becomes aware of any unauthorized access to or use of the Retool Platform. Customer is responsible for authorizing and authenticating the connection of any Resources and for ensuring that any Authorized Users with access are appropriately permissioned.
 
