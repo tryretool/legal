@@ -51,7 +51,7 @@ This Data Processing Addendum (“**DPA**”) supplements and forms part of the 
 
 “**Retool Group”** means Retool and its Affiliates engaged in the Processing of Relevant Personal Data.
 
-“**Security Practices Page**” means Retool’s Security Practices Page, as updated from time to time, and currently accessible at <https://docs.retool.com/legal/security>.
+“**Security Practices Page**” means Retool’s Security Practices Page, as updated from time to time, and currently accessible at [https://docs.retool.com/legal/security](https://docs.retool.com/legal/security).
 
 “**Sub-processor**” means any entity engaged by Retool or a member of the Retool Group to Process Relevant Personal Data in connection with the Retool Platform.
 
@@ -92,7 +92,7 @@ Retool shall maintain appropriate technical and organisational measures for the 
 
 ### 4.1 Authorization.
 
-A current list of Retool’s Sub-processors is available at <https://docs.retool.com/legal/subprocessors> (the “**Sub-processor List**”). Customer hereby consents to these Sub-processors and provides its general authorization for Retool to engage, in accordance with the rest of this section, third-party service providers as new Sub-processors. Customer also acknowledges and agrees that Retool may engage its Affiliates as Sub-processors.
+A current list of Retool’s Sub-processors is available at [https://docs.retool.com/legal/subprocessors](https://docs.retool.com/legal/subprocessors) (the “**Sub-processor List**”). Customer hereby consents to these Sub-processors and provides its general authorization for Retool to engage, in accordance with the rest of this section, third-party service providers as new Sub-processors. Customer also acknowledges and agrees that Retool may engage its Affiliates as Sub-processors.
 
 ### 4.2 Sub-processor Requirements; Liability.
 
@@ -150,11 +150,6 @@ In the event of changes to Data Protection Laws, including, but not limited to, 
 ### 11.4  Governing Law. 
 
 This DPA will be governed by and construed in accordance with the governing law and jurisdiction provisions in the Agreement, unless required otherwise by Data Protection Laws.
-
-
-
-</TabItem>
-</Tabs>
 
 ## SCHEDULE 1: DESCRIPTION OF PROCESSING ACTIVITIES
 
