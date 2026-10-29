@@ -9,8 +9,6 @@ tags:
   - enterprise
 ---
 
-# Retool Security Practices
-
 This page describes the technical and organizational measures and controls maintained by Retool to protect the confidentiality and security of Customer Data in its provision of the Retool cloud services. Unless otherwise stated, capitalized terms used in this page will have the meanings given to them in the Agreement.
 
 ## Access Controls
